@@ -1,0 +1,1130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "forging_a_future"
+	group: "6618FCDEE108C471"
+	icon: {
+		Count: 1
+		id: "ageofweapons:hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "3771B3264717F24E"
+	images: [
+		{
+			dependency: "3DB7C91590FFB7F6"
+			height: 3.0d
+			image: "minecraft:textures/gui/quests/1.png"
+			rotation: 0.0d
+			width: 2.048407643312102d
+			x: 3.7581428571428503d
+			y: 2.214285714285708d
+		}
+		{
+			dependency: "3DB7C91590FFB7F6"
+			height: 7.0d
+			image: "cataclysm:textures/entity/leviathan/dimensional_rift/abyss_black_hole_idle1.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependency: "3DB7C91590FFB7F6"
+			height: 4.0d
+			image: "minecraft:textures/gui/quests/8.png"
+			rotation: 0.0d
+			width: 7.104d
+			x: 1.186714285714288d
+			y: 2.8214285714285623d
+		}
+		{
+			height: 7.0d
+			image: "minecraft:textures/gui/quests/5.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 1.0340304822565969d
+			y: -3.294642857142854d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["09BC0E6631FF2657"]
+			description: ["&fWelcome to the &6Forging the Future&r chapter! Here, you’ll dive into the &bAge of Weapons&r mod, which lets you craft tools and weapons inspired by eras past and future, from the &2Stone Age&r to the &5Futuristic Age&r. Prepare to discover unique gear that will shape your prehistoric adventure. &aIt’s time to forge your legacy!&r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "ageofweapons:weapon_book"
+				}
+			}
+			id: "5797168330142004"
+			rewards: [{
+				id: "7B04524C14075682"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "ageofweapons:weapon_book"
+					}
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			subtitle: "&7Master weaponry across the ages."
+			tasks: [{
+				id: "2D9870E7C8D619C7"
+				title: "Let's start forging!"
+				type: "checkmark"
+			}]
+			title: "&6&lWelcome to the Age of Smithing"
+			x: 1.0091362126245897d
+			y: -2.642857142857146d
+		}
+		{
+			dependencies: ["5797168330142004"]
+			description: ["&fBefore crafting legendary weapons, you’ll need the right tools. Create a &6Hammer&r and some &7Blank Templates&r to kickstart your journey. These will be your foundation for crafting weapons that span ages. &aPrepare your forge and get to work!&r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "30857BFA9539DD31"
+			rewards: [
+				{
+					count: 3
+					id: "70FEB79FD5F82478"
+					item: "ageofweapons:blank_template"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "21873D1E9C4C4151"
+					type: "xp"
+					xp: 15
+				}
+			]
+			shape: "rsquare"
+			subtitle: "&7Start with the basics."
+			tasks: [
+				{
+					id: "034DBABA8D41E4E5"
+					item: {
+						Count: 1
+						id: "ageofweapons:hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C91D8FA4910169D"
+					item: "ageofweapons:blank_template"
+					type: "item"
+				}
+			]
+			title: "&6&lCrafting Essentials"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30857BFA9539DD31"]
+			description: ["&fPlace your &6Template&r into the &7Stonecutter&r and carve it into the specific shape you need. Each cut brings you closer to crafting the perfect tool or weapon."]
+			hide_until_deps_complete: true
+			icon: "minecraft:stonecutter"
+			id: "765FD5DADCACB9D1"
+			rewards: [
+				{
+					count: 2
+					id: "5C0BDB5C17E593AC"
+					item: "ageofweapons:blank_template"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4C22A11EAC211A98"
+					item: "ageofweapons:shard_stone"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "303487D143A60973"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "rsquare"
+			subtitle: "&7Every masterpiece starts with a shape."
+			tasks: [
+				{
+					id: "2E7BF2327FB2C129"
+					item: "ageofweapons:blank_template"
+					type: "item"
+				}
+				{
+					id: "520A8C3384C907BF"
+					item: "minecraft:stonecutter"
+					type: "item"
+				}
+				{
+					id: "620599F483FE638C"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ageofweapons:templates"
+						}
+					}
+					title: "Craft a forging template"
+					type: "item"
+				}
+			]
+			title: "&6&lForging the Form"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["765FD5DADCACB9D1"]
+			description: ["&fTake your crafted &6Template&r to the &cSmithing Table&r. Combine it with the right materials to forge the part you need. This step is where your vision becomes reality."]
+			hide_until_deps_complete: true
+			icon: "minecraft:smithing_table"
+			id: "3DB7C91590FFB7F6"
+			rewards: [
+				{
+					id: "70A110F413D9FE74"
+					item: "ageofweapons:multi_tool_gold_part"
+					type: "item"
+				}
+				{
+					id: "1B52EF0BEE5D544A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "rsquare"
+			subtitle: "&7Bring your design to life."
+			tasks: [
+				{
+					id: "0DF2AB40EA488043"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ageofweapons:templates"
+						}
+					}
+					title: "Use any forging template"
+					type: "item"
+				}
+				{
+					id: "53FBBD59A8547BBE"
+					item: "ageofweapons:medium_stone_blank"
+					type: "item"
+				}
+				{
+					id: "01B699710AEF6D4E"
+					item: "ageofweapons:blank_template"
+					type: "item"
+				}
+				{
+					id: "346B8688A60001B2"
+					item: "minecraft:smithing_table"
+					type: "item"
+				}
+			]
+			title: "&6&lThe Forge Awakens"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3DB7C91590FFB7F6"]
+			description: ["&fStart your journey with &6iron casting&r. Transform raw &7Iron Ingots&r into sturdy &7Iron Plates&r using the proper tools."]
+			hide_until_deps_complete: true
+			icon: "ageofweapons:iron_armor_plate"
+			id: "5F6F4400C1A18DE3"
+			rewards: [
+				{
+					id: "21B0C79E76A5E6FB"
+					item: "ageofweapons:iron_armor_plate"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "19ACEA97A4B8D256"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&7From raw iron to something useful!"
+			tasks: [
+				{
+					id: "058F956634247815"
+					item: "ageofweapons:armor_plate_template"
+					type: "item"
+				}
+				{
+					id: "0B53714169598B9F"
+					item: "ageofweapons:tiny_iron_blank"
+					type: "item"
+				}
+				{
+					id: "01BDA216F0DEAFC1"
+					item: "ageofweapons:blank_template"
+					type: "item"
+				}
+			]
+			title: "&7&lForging Iron Strength"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5F6F4400C1A18DE3"]
+			description: ["&fEnhance your &7Iron Plates&r with &6Reinforced Layers&r for added durability. These are perfect for building tools and armor that stand the test of time. &aStrength is forged, not found!&r"]
+			hide_until_deps_complete: true
+			icon: "ageofweapons:reinforced_iron_armor_plate"
+			id: "5E025C491B10A4A9"
+			rewards: [
+				{
+					id: "3AC92C45339BE0D9"
+					item: "ageofweapons:reinforced_iron_armor_plate"
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "60352D304879FA81"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "octagon"
+			subtitle: "&7Stronger, tougher, and ready for anything!"
+			tasks: [
+				{
+					id: "3EFB694872AC3C30"
+					item: "ageofweapons:armor_plate_template"
+					type: "item"
+				}
+				{
+					id: "1027D8FC96F15B2C"
+					item: "ageofweapons:tiny_iron_blank"
+					type: "item"
+				}
+				{
+					id: "6B10BE185645539D"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			title: "&7&lReinforced for Battle"
+			x: 2.392857142857153d
+			y: 2.035714285714306d
+		}
+		{
+			dependencies: ["3DB7C91590FFB7F6"]
+			description: ["&fLegends speak of the &9Stronghold&r, a place where dimensions converge. Hidden within its chests lie &elegendary weapons&r, brought forth from other &dmultiverses&r. Explore its depths, and you may uncover these mythical treasures. Will you rise to the challenge and claim the &d7&r &bmultiversal weapons&r?"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "66CA7D8475FCFE18"
+			subtitle: "&7An ancient meeting point of worlds..."
+			tasks: [{
+				icon: "minecraft:ender_eye"
+				id: "2F4247676CA25452"
+				structure: "betterstrongholds:stronghold"
+				title: "Find the stronhod"
+				type: "structure"
+			}]
+			title: "&6&lWhere Multiverses Collide"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["&fClaim the &bTitan Blade&r, a weapon renowned in a world plagued by towering monsters. Once wielded by the fearless &9Levi Ackerman&r, this blade is a testament to precision, speed, and unparalleled skill. Will you rise to the challenge and carry on the legacy of a true titan slayer?"]
+			id: "729C60826ADEEAD6"
+			invisible: true
+			rewards: [
+				{
+					id: "0F0C0FE8CD9BC5ED"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "418FDEFE911F278A"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7Cut through giants, forge your legend."
+			tasks: [{
+				id: "32E89801F8D2B02A"
+				item: {
+					Count: 1
+					id: "ageofweapons:titan_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lTitan Slayer's Edge"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["&fUnearth the &bSword of Kings&r, a blade carried by the legendary &aBjörn Ironside&r. This weapon bears the weight of an empire, forged for conquest and justice. &6Will you rise as the next sovereign to wield it?&r"]
+			id: "4AEC1EAE898F90F8"
+			invisible: true
+			rewards: [
+				{
+					id: "363F44A3775F45CF"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "0153B3ECC6E57C9F"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7Forged for a ruler of iron will."
+			tasks: [{
+				id: "48F14471A13FF7D5"
+				item: {
+					Count: 1
+					id: "ageofweapons:sword_of_kings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lKing's Glory"
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["&fLegends speak of the &c&kNightmare Scythe&r, once held by a figure of pure dread. Its origins are shrouded in &8&kmystery&r, its power cursed and unrelenting. Only the bravest dare to confront its dark essence. Will you uncover the secrets hidden within?"]
+			id: "6A560BC6F88E8BC5"
+			invisible: true
+			rewards: [
+				{
+					id: "6C321AF457A3D09E"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "4B1E0070C2913256"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7A shadow of terror lingers..."
+			tasks: [{
+				id: "3F9C32C05F995EFD"
+				item: {
+					Count: 1
+					id: "ageofweapons:nightmare_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&8&l???"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["Retrieve the legendary &bMaster Sword&r, a blade that has guided heroes through countless trials. Once wielded by the courageous &aLink&r, this sword holds the power to vanquish evil and restore balance. Will you answer the call of destiny?"]
+			id: "5C776560DA9EF55D"
+			invisible: true
+			rewards: [
+				{
+					id: "2725187D51A65BEE"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "66067D0EEE495B73"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7The light to banish all darkness."
+			tasks: [{
+				id: "1CA5AE1C0004757F"
+				item: {
+					Count: 1
+					id: "ageofweapons:master_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lHero's Blade"
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["&fSeek the legendary &bExcalibur&r, the sword of &6King Arthur&r himself. This blade chose a true ruler, destined to lead with honor and strength. &3Are you worthy of its power?&r"]
+			id: "1B7EE7F40ED599FF"
+			invisible: true
+			rewards: [
+				{
+					id: "560ACEA2EE5BDD3B"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "54A4300A7D257187"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7A king's weapon, a legend's proof."
+			tasks: [{
+				id: "04D04A10B2B76F19"
+				item: {
+					Count: 1
+					id: "ageofweapons:excalibur"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lThe Sword in the Stone"
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["&fForge your path with the &bElucidator&r, a weapon from a realm of virtual trials and boundless courage. Wielded by the fearless duo &aKirito&r and &dAsuna&r, it symbolizes unity, strength, and resilience. &6Will you prove your worth and master its power?&r"]
+			id: "2AB3C986E6BA8F1E"
+			invisible: true
+			rewards: [
+				{
+					id: "697C3B59836DA718"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "62FFC829AACE63CE"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7A sword that bridges worlds."
+			tasks: [{
+				id: "058907C77EFCB394"
+				item: {
+					Count: 1
+					id: "ageofweapons:elucidator"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lDuality of Light and Shadow"
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["66CA7D8475FCFE18"]
+			description: ["&fWield the &bBuster Sword&r, an iconic blade from a distant realm where warriors battle for their world's fate. Last wielded by the legendary &9Cloud&r, this massive sword symbolizes hope, strength, and resilience."]
+			id: "49D467B21845B1BA"
+			invisible: true
+			rewards: [
+				{
+					id: "3CAC8003AEE54EB7"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+				{
+					count: 9
+					id: "40CCB96B5473DB58"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			subtitle: "&7Forged for heroes, carried by legends."
+			tasks: [{
+				id: "245EC23C85B3F72C"
+				item: {
+					Count: 1
+					id: "ageofweapons:buster_sword"
+					tag: {
+						Damage: 0
+						range: 3.5f
+					}
+				}
+				type: "item"
+			}]
+			title: "&6&lThe Legacy of the Buster"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3DB7C91590FFB7F6"]
+			description: ["&fWith your newly crafted &6Iron Parts&r, forge your very first &eIron Tool or Weapon&r. Strong and reliable, this is the foundation of any great adventurer’s journey. &aPrepare to take on the world!&r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:broadsword_iron"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "60EA6A560E037C86"
+			rewards: [
+				{
+					id: "4697729E915DBE2B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "41E39F03D51F9736"
+					item: "medieval_craft_weapons:titanite_nugget_1"
+					type: "item"
+				}
+			]
+			subtitle: "&7Your first step into craftsmanship."
+			tasks: [{
+				id: "6FD603B4D990D9DD"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "ageofweapons:spear_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:waraxe_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:warhammer_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:trident_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:longsword_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:multi_tool_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:tactical_knife_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:boarding_axe_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:machete_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:saber_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:ninjato_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:wakizashi_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:katana_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:glaive_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:lance_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:scythe_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:saw_sword_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:broadsword_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:claw_sword_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:cleaver_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:flail_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:dagger_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:knife_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:skewer_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:hatchet_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:battle_axe_iron"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:claymore_iron"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+						]
+					}
+				}
+				title: "Craft an Iron Weapon"
+				type: "item"
+			}]
+			title: "&6&lIron Will"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60EA6A560E037C86"]
+			description: ["&fUsing the &bDiamond Parts&r you’ve crafted, forge a &dDiamond Tool or Weapon&r. Durable and powerful, this will be your ally in the toughest battles. &eShow the world your brilliance!&r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:claw_sword_diamond"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5D4127F15CACD6CD"
+			rewards: [
+				{
+					id: "7F9BEB6D2C065E65"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "49C21EFA13CD89F6"
+					item: "medieval_craft_weapons:titanite_nugget_1"
+					type: "item"
+				}
+			]
+			subtitle: "&7Unleash the brilliance of diamonds."
+			tasks: [{
+				id: "72B9E1B7E2B3323A"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "ageofweapons:katana_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:glaive_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:lance_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:scythe_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:waraxe_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:heavy_staff_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:claw_sword_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:saw_sword_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:broadsword_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:claw_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:trident_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:saber_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:ninjato_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:machete_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:boarding_axe_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:claymore_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:longsword_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:multi_tool_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:tactical_knife_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:halbert_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:cleaver_diamond"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:flail_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:battle_axe_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:hatchet_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:skewer_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:knife_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:dagger_diamond"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Craft a Diamond Weapon"
+				type: "item"
+			}]
+			title: "&b&lDiamond Masterpiece"
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5D4127F15CACD6CD"]
+			description: ["&fCraft a legendary &6Netherite Longsword&r, &5Claymore&r, or &8Cleaver&r. These massive weapons are not just tools, they are symbols of dominance. Choose wisely and let the world tremble before your blade!&r"]
+			hide_until_deps_complete: true
+			id: "4F1EADD8ADF81A14"
+			rewards: [
+				{
+					id: "4159B5E9E101787B"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "0E7A1DA236336E6C"
+					item: "medieval_craft_weapons:titanite_ingot_4"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			subtitle: "&7Wield the power of giants."
+			tasks: [{
+				id: "1CF1FEC5B2D8A483"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "ageofweapons:longsword_netherite"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:claymore_netherite"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:cleaver_netherite"
+								tag: {
+									Damage: 0
+									range: 3.5f
+								}
+							}
+						]
+					}
+				}
+				title: "Craft a Netherite Weapon"
+				type: "item"
+			}]
+			title: "&6&lThe Great Blade"
+			x: -1.5d
+			y: 1.5d
+		}
+	]
+	title: "&6 Forging a Future"
+}

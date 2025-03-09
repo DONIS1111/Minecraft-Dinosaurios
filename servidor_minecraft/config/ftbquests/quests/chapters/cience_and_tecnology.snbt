@@ -1,0 +1,641 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cience_and_tecnology"
+	group: "783C51F687983915"
+	icon: "unusualprehistory:analyzer"
+	id: "26DA5DE90EECED41"
+	images: [{
+		height: 20.0d
+		image: "minecraft:textures/gui/quests/background2.png"
+		rotation: 0.0d
+		width: 35.55d
+		x: -3.0d
+		y: 1.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["09BC0E6631FF2657"]
+			description: [
+				"&fThe path to reviving the prehistoric world begins here! Dive into &bScience and Technology&r to learn the tools and knowledge essential for uncovering fossils, extracting DNA, and understanding the wonders of ancient life."
+				""
+				"&7Use your &ascientific expertise&r to connect the dots between the past and present. Every breakthrough brings you closer to bringing the prehistoric era back to life."
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:encyclopedia"
+			id: "43150926018B4F38"
+			rewards: [{
+				id: "4F9E3AD5D124B5CE"
+				item: "unusualprehistory:encyclopedia"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "&7Unveiling ancient mysteries"
+			tasks: [{
+				id: "27991F897D09A5B8"
+				title: "Let the investigation begin!"
+				type: "checkmark"
+			}]
+			title: "&6&lDeciphering the Past"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["43150926018B4F38"]
+			description: [
+				"&fCreate an &aanalyzer&r, gather fossil remains, and use vials to extract the precious DNA hidden within."
+				""
+				"Every sample brings you &6one step closer&r to &cresurrecting prehistoric giants&r. "
+				"Are you ready to unlock the secrets of life? 🧬"
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:analyzer"
+			id: "696649E9C1A6A5C5"
+			rewards: [
+				{
+					id: "1B8A99286499E62A"
+					item: "unusualprehistory:frozen_fossil_item"
+					type: "item"
+				}
+				{
+					id: "643A965D9FAAE2DA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "rsquare"
+			subtitle: " &7Uncovering life’s blueprint"
+			tasks: [
+				{
+					id: "618601A08275CFA5"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "unusualprehistory:analyzer_items"
+						}
+					}
+					title: "Obtain any item with prehistoric DNA"
+					type: "item"
+				}
+				{
+					id: "5EBD229B2A25BE4F"
+					item: "unusualprehistory:flask"
+					type: "item"
+				}
+				{
+					id: "6F03607048CBE814"
+					item: "unusualprehistory:analyzer"
+					type: "item"
+				}
+			]
+			title: "&6&lIn Search of the Secret Code"
+			x: -3.0198412698412653d
+			y: 1.4017857142857153d
+		}
+		{
+			dependencies: ["696649E9C1A6A5C5"]
+			description: [
+				"&fCraft a &aCultivator&r and combine &bOrganic Ooze&r with DNA to incubate and &egerminate new life forms&r. "
+				""
+				"&7The past is no longer gone, it’s waiting for your touch.&r"
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:cultivator"
+			id: "583240593D4CC537"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3AD6D33249926DBC"
+					table_id: 1875459321339050192L
+					type: "loot"
+				}
+				{
+					id: "79067BCB797566FD"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "rsquare"
+			subtitle: "&7Breathing life into ancient history"
+			tasks: [
+				{
+					id: "02B50EFFD54167A7"
+					item: "unusualprehistory:cultivator"
+					type: "item"
+				}
+				{
+					id: "3B99A69879D47B30"
+					item: "unusualprehistory:organic_ooze"
+					type: "item"
+				}
+				{
+					id: "612A5101A70C6E00"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "unusualprehistory:dna_flasks"
+						}
+					}
+					title: "Any DNA flasks"
+					type: "item"
+				}
+			]
+			title: "&6&lRecovering the Past"
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["583240593D4CC537"]
+			description: [
+				"&fAttach a &cSmilodon Embryo&r to an Ocelot, the closest modern relative of this prehistoric predator. Witness the collision of eras as the ancient meets the present."
+				""
+				"&a&o\"Are you ready, kids? When worlds collide, there’s no telling what might rise!\" 🎶&r&r"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:mech_suit_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4F4921721678215E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79DED87B0A585058"
+					table_id: 1875459321339050192L
+					type: "loot"
+				}
+				{
+					id: "58E15B2B27353D99"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "heart"
+			subtitle: "&7From the depths of time to the present"
+			tasks: [{
+				id: "292B611604598999"
+				item: "unusualprehistory:smilodon_embryo"
+				type: "item"
+			}]
+			title: "&6&lWhen Worlds Collide"
+			x: -2.4126984126984112d
+			y: 3.0089285714285694d
+		}
+		{
+			dependencies: [
+				"4F4921721678215E"
+				"4C7160DC85DEFD02"
+			]
+			dependency_requirement: "one_started"
+			description: [
+				"&fAs Smilodons groom and care for their pack, they leave behind &5unique fur remnants&r. Collect these precious traces to uncover their secrets and preserve their majestic legacy."
+				""
+				"&7Don’t forget, your &aincubator&r is your gateway to reviving these ancient wonders!"
+			]
+			icon: "unusualprehistory:incubator"
+			id: "321E50FFAA115FC0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18BBF90626BF4FF7"
+					table_id: 1875459321339050192L
+					type: "loot"
+				}
+				{
+					id: "60DD7F7E76801B42"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "rsquare"
+			subtitle: " &7Traces of the Wild Past"
+			tasks: [
+				{
+					id: "47E3E548E0595245"
+					item: "unusualprehistory:smilo_fur"
+					type: "item"
+				}
+				{
+					id: "55D7218B478C326B"
+					item: "unusualprehistory:insulator"
+					type: "item"
+				}
+				{
+					id: "50B2A17C160E322A"
+					item: "unusualprehistory:incubator"
+					type: "item"
+				}
+			]
+			title: "&6&lPrimal Shedding"
+			x: -0.8412698412698347d
+			y: 1.7946428571428612d
+		}
+		{
+			dependencies: ["583240593D4CC537"]
+			description: [
+				"&fThe &cEncrusted DNA&r holds mysteries, but it’s been corrupted by time. Can you find a way to repair or utilize it without letting the past’s danger resurface?"
+				""
+				"&o&7“Technology is a useful servant but a dangerous master.”"
+				"&8– Christian Louis Lange&r"
+			]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:encrusted_organ"
+			id: "4C7160DC85DEFD02"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "107A56FDF8A32C6F"
+					table_id: 1875459321339050192L
+					type: "loot"
+				}
+				{
+					id: "2DBE69527D93A65F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			shape: "pentagon"
+			subtitle: "&7Fragile Secrets of the Past"
+			tasks: [
+				{
+					id: "77BF32961E6907BF"
+					item: "unusualprehistory:encrusted_sack"
+					type: "item"
+				}
+				{
+					entity: "unusualprehistory:encrusted"
+					icon: "unusualprehistory:encrusted_flask"
+					id: "0602B4E1995992BF"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: " &6&lA Tainted Code"
+			x: -7.6269841269841265d
+			y: 3.6517857142857153d
+		}
+		{
+			dependencies: ["4C7160DC85DEFD02"]
+			description: [
+				"&fCraft a &eLarge DNA Storage&r to safely keep all the genetic material you uncover. With space to spare, no DNA will go to waste!&7"
+				""
+				"&o\"Every piece of the puzzle deserves its place. Build yours wisely.\"&r"
+			]
+			icon: "unusualprehistory:dna_fridge"
+			id: "008B0D8E8941C2AF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EDFF3A7A1E61691"
+					table_id: 1875459321339050192L
+					type: "loot"
+				}
+				{
+					id: "22E4AA9E803FF6DE"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "diamond"
+			subtitle: "&7Bigger, Better Storage"
+			tasks: [
+				{
+					id: "3EC2A59FE0263C4C"
+					item: "unusualprehistory:encrusted_organ"
+					type: "item"
+				}
+				{
+					id: "3880F7223B1D30FB"
+					item: "unusualprehistory:dna_fridge"
+					type: "item"
+				}
+			]
+			title: "&6&lGene Vault"
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["696649E9C1A6A5C5"]
+			description: [
+				"&fGather all types of &aDNA samples&r extracted from fossils. Each vial holds the key to bringing ancient creatures back to life."
+				""
+				"&7Can you collect them all and become the pioneer of prehistoric science? 🧬"
+			]
+			hide_until_deps_complete: true
+			id: "36AB92A32C4F5840"
+			rewards: [
+				{
+					count: 2
+					id: "29E7B9E0FEBF8181"
+					item: "unusualprehistory:frozen_fossil_item"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5FB7BFEF25C6C18C"
+					item: "unusualprehistory:amber_gummy"
+					type: "item"
+				}
+				{
+					id: "748C3D6C679D8AC9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "gear"
+			size: 0.7d
+			subtitle: "&7Collecting the building blocks of life"
+			tasks: [
+				{
+					id: "4A0BB77E7D410C9D"
+					item: "unusualprehistory:palaeo_flask"
+					title: "Opal DNA"
+					type: "item"
+				}
+				{
+					id: "34032FB8FBFF769B"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:kentro_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:anuro_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:beelz_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:majunga_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:raptor_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:pachy_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:eryon_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:ulugh_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:austro_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:antarcto_flask"
+								}
+							]
+						}
+					}
+					title: "Mezo DNA"
+					type: "item"
+				}
+				{
+					id: "51B1EF1566369842"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:talpanas_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:megala_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:barin_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:paracer_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:giganto_flask"
+								}
+							]
+						}
+					}
+					title: "Tar DNA"
+					type: "item"
+				}
+				{
+					id: "5DD7D4F0AD37D18D"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:scau_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:coty_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:dunk_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:stetha_flask"
+								}
+							]
+						}
+					}
+					title: "Paleo DNA"
+					type: "item"
+				}
+				{
+					id: "047ED5426B7EC562"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:encrusted_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:hwacha_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:brachi_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:rex_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:trike_flask"
+								}
+							]
+						}
+					}
+					title: "Amber DNA"
+					type: "item"
+				}
+				{
+					id: "6330178F5DF528F9"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:horsetail_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:bennet_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:dryo_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:foxxi_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:raiguenrayun_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:zuloagae_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:leefructus_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:archao_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:ginkgo_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:sarr_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:anostylostroma_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:archaefructus_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:clathrodictyon_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:nelumbites_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:quereuxia_flask"
+								}
+							]
+						}
+					}
+					title: "Plant DNA"
+					type: "item"
+				}
+				{
+					id: "6A798DFD5A482E72"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:foxxi_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:dryo_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:ginkgo_flask"
+								}
+							]
+						}
+					}
+					title: "Petrified DNA"
+					type: "item"
+				}
+				{
+					id: "2D76725864466915"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "unusualprehistory:smilo_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:megath_flask"
+								}
+								{
+									Count: 1b
+									id: "unusualprehistory:mammoth_flask"
+								}
+							]
+						}
+					}
+					title: "Frozen DNA"
+					type: "item"
+				}
+			]
+			title: "&6&lThe First Scientist"
+			x: -4.662698412698404d
+			y: 0.8660714285714306d
+		}
+	]
+	title: "&d Cience \\&\\ Tecnology"
+}

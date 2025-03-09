@@ -1,0 +1,266 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flora"
+	group: "783C51F687983915"
+	icon: "unusualprehistory:bennett"
+	id: "1A4FE6F97F9260C7"
+	images: [{
+		height: 20.0d
+		image: "minecraft:textures/gui/quests/background3.png"
+		rotation: 0.0d
+		width: 35.55555555555556d
+		x: -0.5d
+		y: -0.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["583240593D4CC537"]
+			description: ["&fDive into the wonders of prehistoric flora. &aRecreate&r ancient ecosystems by cultivating forgotten plants that shaped the world as we know it."]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:petrified_bush"
+			id: "0EFFFC431176B779"
+			subtitle: " &7The Roots of History"
+			tasks: [{
+				id: "47324E279884800E"
+				title: "The basis of every ecosystem"
+				type: "checkmark"
+			}]
+			title: " &2&lSeeds of Time"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EFFFC431176B779"]
+			description: ["&fExplore the ancient waters and gather &aunique aquatic flora&r that once thrived in prehistoric oceans. From lush &3kelp&r to delicate &bcoral&r, each plant is a piece of history waiting to resurface."]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:archaefructus"
+			id: "1AF186874427A88C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2146FB470C1B2B12"
+					table_id: 8722943001438776660L
+					type: "loot"
+				}
+				{
+					id: "4EA187DB1DEE7C1C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&7Dive beneath the waves"
+			tasks: [
+				{
+					id: "0DF0711116E1D79A"
+					item: "unusualprehistory:archaefructus"
+					type: "item"
+				}
+				{
+					id: "2D7796FA3ADAC404"
+					item: "unusualprehistory:clathrodictyon"
+					type: "item"
+				}
+				{
+					id: "77B47F08AF26253D"
+					item: "unusualprehistory:anostylostroma_block"
+					type: "item"
+				}
+				{
+					id: "091DB90B1FA60387"
+					item: "unusualprehistory:nelumbites"
+					type: "item"
+				}
+				{
+					id: "7C9B6D0308071288"
+					item: "unusualprehistory:quereuxia"
+					type: "item"
+				}
+			]
+			title: "&3&lAquatic Wonders"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0EFFFC431176B779"]
+			description: ["&fCollect &aplants and flowers&r that once painted the prehistoric landscapes. From towering ferns to vibrant wildflowers, these specimens represent the lush beauty of ancient Earth."]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:bennett"
+			id: "2ADFA0D6450D2199"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3479098795AF4AA5"
+					table_id: 8722943001438776660L
+					type: "loot"
+				}
+				{
+					id: "04B896398B393EB2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "octagon"
+			subtitle: "&7Reviving the land’s past"
+			tasks: [
+				{
+					id: "1948AC7C26E08F13"
+					item: "unusualprehistory:archaeos"
+					type: "item"
+				}
+				{
+					id: "0F85C44AF195DD5E"
+					item: "unusualprehistory:bennett"
+					type: "item"
+				}
+				{
+					id: "217A0D77C48FD0F2"
+					item: "unusualprehistory:leefructus"
+					type: "item"
+				}
+				{
+					id: "778904EEE0DD142C"
+					item: "unusualprehistory:horsetail"
+					type: "item"
+				}
+				{
+					id: "08DEC322D4741ED8"
+					item: "unusualprehistory:sarracenia"
+					type: "item"
+				}
+				{
+					id: "442A1272A2BA49B8"
+					item: "unusualprehistory:raiguenrayun"
+					type: "item"
+				}
+				{
+					id: "78C01698A528F1A2"
+					item: "unusualprehistory:zuloagae"
+					type: "item"
+				}
+			]
+			title: "&2&lEarth’s Green Heritage"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2ADFA0D6450D2199"]
+			dependency_requirement: "one_started"
+			description: ["&fCollect &aGinkgo Saplings&r and their fruits to &6restore the legacy&r of prehistoric flora. These resilient trees carry the &bessence of ancient forests&r."]
+			icon: "unusualprehistory:ginkgo_sapling"
+			id: "446D75D4092DCCF5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E2D7892F63043EE"
+					table_id: 8722943001438776660L
+					type: "random"
+				}
+				{
+					id: "7EB03519512862F7"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&7Ginkgo’s ancient gift…"
+			tasks: [
+				{
+					id: "18C89F639D2DB96E"
+					item: "unusualprehistory:ginkgo_sapling"
+					type: "item"
+				}
+				{
+					id: "2BFD4744842F03EF"
+					item: "unusualprehistory:ginkgo_fruit"
+					type: "item"
+				}
+				{
+					id: "6A3E1812DD7919D9"
+					item: "unusualprehistory:raw_ginkgo_seeds"
+					type: "item"
+				}
+				{
+					id: "5D4CD8625661A582"
+					item: "unusualprehistory:cooked_ginkgo_seeds"
+					type: "item"
+				}
+			]
+			title: "&2&lRoots of the Past"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2ADFA0D6450D2199"]
+			dependency_requirement: "one_started"
+			description: ["&fGrow the mighty &6Titanic Trees&r, towering giants of a forgotten world. These &acolossal wonders&r stand as a &csymbol of prehistoric strength&r."]
+			icon: "unusualprehistory:foxii_sapling"
+			id: "795A8B1BE66B6C81"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7265FCC4377C15F5"
+					table_id: 8722943001438776660L
+					type: "random"
+				}
+				{
+					id: "48BFAA901F55CF66"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "pentagon"
+			subtitle: "&7When trees ruled the skies…"
+			tasks: [{
+				count: 4L
+				id: "34A6FF2D1301C074"
+				item: "unusualprehistory:foxii_sapling"
+				type: "item"
+			}]
+			title: "&6&lTitanic Legacy"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2ADFA0D6450D2199"]
+			dependency_requirement: "one_started"
+			description: ["&fHarvest &aDryophyllum Saplings&r, seeds, and fruits to preserve the &bquiet whispers of ancient canopies&r. Each leaf tells a story of a time when &cenormous forests&r blanketed the Earth. "]
+			icon: "unusualprehistory:dryo_sapling"
+			id: "40CD3EA2EAEE9828"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "33FED0D865DBAC62"
+					table_id: 8722943001438776660L
+					type: "random"
+				}
+				{
+					id: "6309C0ED8B1E04EA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&7Leaves that remember…"
+			tasks: [
+				{
+					id: "55DE075B38DBE683"
+					item: "unusualprehistory:dryo_sapling"
+					type: "item"
+				}
+				{
+					id: "7F7BBC3CECC2A26E"
+					item: "unusualprehistory:dryo_nuts"
+					type: "item"
+				}
+			]
+			title: "&a&lDryophyllum’s Whisper"
+			x: 2.0d
+			y: -2.0d
+		}
+	]
+	title: "&2 Flora"
+}

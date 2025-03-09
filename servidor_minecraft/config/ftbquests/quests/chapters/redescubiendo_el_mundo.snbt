@@ -1,0 +1,130 @@
+{
+	autofocus_id: "1E79377FCD7C9E4E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "redescubiendo_el_mundo"
+	group: "058D9728B3A05403"
+	icon: "ftbquests:book"
+	id: "476D7D7EB0927ACD"
+	images: [
+		{
+			dependency: "1E79377FCD7C9E4E"
+			height: 0.7d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 0.7d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			click: "https://www.bisecthosting.com/lupin"
+			dependency: "1E79377FCD7C9E4E"
+			height: 1.5d
+			hover: ["Use the code \"Lupin\" to get 25% off on your server!"]
+			image: "bhmenu:textures/gui/serverlistbanner/icon.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			click: "https://discord.gg/X8VY5WMbe4"
+			dependency: "1E79377FCD7C9E4E"
+			height: 1.0d
+			hover: ["Click Me!"]
+			image: "ftblibrary:icons/friends"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:textures/gui/quests/banner.png"
+			rotation: 0.0d
+			width: 14.0016d
+			x: 1.0d
+			y: -3.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&fWelcome, adventurer! You’ve stepped into &aPrehistoric World&r, where &6dinosaurs&r, &fmythical beasts&r, and the wonders of the ancient Earth collide with endless exploration."
+				""
+				"&7Prepare to &aunearth fossils&r, extract &6prehistoric DNA&r, and revive creatures that ruled the Earth millions of years ago. This is more than survival, it’s a chance to &bbuild your legacy&r."
+				""
+				"&6Gather your courage&r, sharpen your tools, and let the journey begin. The &cprehistoric world&r is yours to explore! 🦖🌍"
+			]
+			icon: "unusualprehistory:mezo_fossil"
+			id: "1E79377FCD7C9E4E"
+			shape: "octagon"
+			subtitle: " &7A journey millions of years in the making."
+			tasks: [{
+				id: "08EC2D84B761D1AA"
+				title: "Start Journey!"
+				type: "checkmark"
+			}]
+			title: "&6&lWelcome to Prehistoric World!"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1E79377FCD7C9E4E"]
+			description: [
+				"&fWelcome to the world of &aQuests&r! This is a &7Checkmark Quest&r, meaning you can complete it by simply clicking!"
+				""
+				"&7But this is just the start. As you journey through &aPrehistoric World&r, you’ll encounter various types of quests:"
+				"&8- &6Crafting Quests&r."
+				"&8- &6Achievement Quests&r."
+				"&8- &6Exploration Quests&r."
+				"&8- &6And more"
+				""
+				"&fWhile &bquests aren’t mandatory&r, they’ve been carefully designed to enhance your adventure, offering balanced challenges and rewarding discoveries."
+				""
+				"&rFor guidance on key mods like &cUnusual Prehistory&r, dive into their exclusive questlines."
+				""
+				"&6Are you ready to explore the unknown&r and bring the ancient past to life? Your adventure begins now, good luck, explorer! 🦖✨"
+			]
+			hide_until_deps_complete: true
+			icon: "ftbquests:book"
+			id: "09BC0E6631FF2657"
+			shape: "hexagon"
+			subtitle: " &7Your guide to mastering Prehistoric World"
+			tasks: [{
+				id: "263403030FF87288"
+				title: "Start Journey!"
+				type: "checkmark"
+			}]
+			title: "&6&lWelcome to Quests!"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1E79377FCD7C9E4E"]
+			description: [
+				"&fIf you encounter a bug or have any questions, don’t hesitate to reach out! Our &9official Discord&r is here to assist you with anything you need. Join our community, ask questions, and stay updated with the latest news. "
+				""
+				"&l&bClick the icon to join the Discord!&r"
+				""
+				"&fRemember, whether it’s about quests, mods, or just sharing your experience, we’re just a message away. "
+			]
+			hide_until_deps_complete: true
+			icon: "days_in_the_middle_ages:hanging_sign"
+			id: "153E3B6168F966E6"
+			shape: "heart"
+			subtitle: "&7We’re here to support your journey!"
+			tasks: [{
+				id: "7D8761293A684F54"
+				title: "Thank You!"
+				type: "checkmark"
+			}]
+			title: "&b&lNeed Help?"
+			x: 2.0d
+			y: 1.0d
+		}
+	]
+	title: "&6&l A Prehistoric World"
+}

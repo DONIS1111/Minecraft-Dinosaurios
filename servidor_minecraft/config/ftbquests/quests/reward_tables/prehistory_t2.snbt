@@ -1,0 +1,21 @@
+{
+	id: "790E1E7194BCED54"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "prehistory_t2"
+	}
+	loot_size: 4
+	order_index: 1
+	rewards: [
+		{ count: 3, item: "unusualprehistory:tar_fossil_item", weight: 0.9f }
+		{ count: 8, item: "unusualprehistory:mezo_fossil", weight: 0.9f }
+		{ count: 3, item: "unusualprehistory:amber_fossil", weight: 0.9f }
+		{ item: "unusualprehistory:opal_fossil", weight: 0.142f }
+	]
+	title: "Prehistory_t2"
+}

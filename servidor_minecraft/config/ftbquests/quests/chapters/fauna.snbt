@@ -1,0 +1,1943 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fauna"
+	group: "783C51F687983915"
+	icon: "unusualprehistory:ammonite_shell"
+	id: "2FCC9A591705CE94"
+	images: [{
+		height: 20.0d
+		image: "minecraft:textures/gui/quests/background1.png"
+		rotation: 0.0d
+		width: 35.55555555555556d
+		x: 1.5d
+		y: 0.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &6Ammonite&r can be harvested for its durable &ashell fragments&r. These fragments can be transformed into a &bwar pick&r or reconstructed into a full shell. A true relic of ancient oceans!"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:ammon_bucket"
+			id: "6CA5F12F142F46F5"
+			rewards: [
+				{
+					id: "2F0E9A2F4ED22AB1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "3AA1BDCF71574F9C"
+					item: "minecraft:nautilus_shell"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					count: 3
+					id: "22872FA48E92E101"
+					item: "minecraft:scute"
+					random_bonus: 7
+					type: "item"
+				}
+			]
+			subtitle: "&7Fragments of the Deep"
+			tasks: [
+				{
+					id: "1F6ACC650E448379"
+					item: "unusualprehistory:ammon_eggs"
+					type: "item"
+				}
+				{
+					id: "258185E9DDA08007"
+					item: "unusualprehistory:ammon_bucket"
+					type: "item"
+				}
+				{
+					id: "219C4DB8BCA9E6A1"
+					item: "unusualprehistory:shell_shard"
+					type: "item"
+				}
+				{
+					id: "79D73EC623FAB8EA"
+					item: {
+						Count: 1
+						id: "unusualprehistory:warpick"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4984C58BD2B063EA"
+					item: "unusualprehistory:ammonite_shell"
+					type: "item"
+				}
+			]
+			title: "&6&lA Shelled Fella"
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+				"4DDC5E75874028FA"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThis massive amphibian produces &esaliva&r with unique properties. Use it as a mount with its &aMeat-on-a-Stick&r trick and enjoy its &bspectacular jumps&r."]
+			hide_until_deps_visible: true
+			icon: "unusualprehistory:beelze_eggs"
+			id: "4EA2661F44F07178"
+			rewards: [
+				{
+					id: "12C79DA15A63A664"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "34B2861737163736"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:strong_leaping"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&7\"Don’t kiss this one!\""
+			tasks: [
+				{
+					id: "5CBCB50AEFDE461B"
+					item: "unusualprehistory:beelze_eggs"
+					type: "item"
+				}
+				{
+					id: "328E72E9E3EE37C9"
+					item: "unusualprehistory:frog_saliva"
+					type: "item"
+				}
+				{
+					id: "00BD04A38CC8EC52"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+				{
+					id: "4A52154EE6C460F7"
+					item: {
+						Count: 1
+						id: "unusualprehistory:meat_on_a_stick"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lBeelzebufo"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fThe &6Scaumenacia&r can be harvested or cooked for a delicious meal. Cover it in gold, and it becomes the key to pacifying the mighty &bDunkleosteus&r. "
+				"Truly a versatile fish!"
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:scau_bucket"
+			id: "163D02C87619AA89"
+			rewards: [
+				{
+					id: "6764BD48FF3BF83E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "4AC0E6B7857F6F5B"
+					item: "unusualprehistory:golden_scau"
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			subtitle: "&7The Golden Treat"
+			tasks: [
+				{
+					id: "025C7FA77B1D1696"
+					item: "unusualprehistory:scau_eggs"
+					type: "item"
+				}
+				{
+					id: "4ACBEE782EB21076"
+					item: "unusualprehistory:scau_bucket"
+					type: "item"
+				}
+				{
+					id: "1B3DA12CD8B2DCDD"
+					item: "unusualprehistory:raw_scau"
+					type: "item"
+				}
+				{
+					id: "53B35B0A2CF04DBE"
+					item: "unusualprehistory:cooked_scau"
+					type: "item"
+				}
+				{
+					id: "4253BE4DDB75B66A"
+					item: "unusualprehistory:golden_scau"
+					type: "item"
+				}
+			]
+			title: " &2&lAn Aquatic Buffet"
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+				"163D02C87619AA89"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &6Dunkleosteus&r is a tank of the deep sea. Harvest its armor to craft tools or use its parts for powerful enhancements. It is the epitome of underwater resilience."]
+			hide_until_deps_visible: true
+			icon: "unusualprehistory:dunk_bucket"
+			id: "50C667043BD693B3"
+			rewards: [
+				{
+					id: "2CDBB9F370CADB47"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "1C2354354B1B890B"
+					item: "medieval_craft_weapons:titanite_nugget_1"
+					type: "item"
+				}
+			]
+			subtitle: "&7Unyielding Defense"
+			tasks: [
+				{
+					id: "0EB44B5D75B772FC"
+					item: "unusualprehistory:dunk_eggs"
+					type: "item"
+				}
+				{
+					id: "2000F295BA33D3FC"
+					item: "unusualprehistory:golden_scau"
+					type: "item"
+				}
+				{
+					id: "5AC0823A9AB7097F"
+					item: "unusualprehistory:dunk_bucket"
+					type: "item"
+				}
+			]
+			title: "&c&lThe Armored Fish"
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &6Eryon&r loves digging in mud, uncovering &atreasures&r like fossils. Partner with this ancient archaeologist for a journey back in time."]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:eryon_fossil"
+			id: "2C5CD39AD677CC01"
+			rewards: [
+				{
+					id: "6C36CAF901A043DD"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "530B7F208D0988B1"
+					table_id: 820122664233498878L
+					title: "Random reward x3"
+					type: "random"
+				}
+			]
+			subtitle: "An Archaeologist of Himself"
+			tasks: [{
+				id: "62E69D3BE277E7F6"
+				item: "unusualprehistory:eryon_eggs"
+				type: "item"
+			}]
+			title: "&3&lDigging through Time"
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &6Stethacanthus&r might not satisfy your hunger, but its striking &cappearance&r makes it a valuable find for collectors and crafters alike."]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:stetha_bucket"
+			id: "7EC70C2718D6C4CA"
+			rewards: [
+				{
+					id: "41C543FD83F9E9E2"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "39546189BF38CBA1"
+					item: "alexscaves:trilocaris_bucket"
+					type: "item"
+				}
+			]
+			subtitle: " &7Beauty Beneath the Waves"
+			tasks: [
+				{
+					id: "6CD4BD82F2683D00"
+					item: "unusualprehistory:stetha_eggs"
+					type: "item"
+				}
+				{
+					id: "4630F0968990FF9E"
+					item: "unusualprehistory:stetha_bucket"
+					type: "item"
+				}
+				{
+					id: "79BAA8FCF901B222"
+					item: "unusualprehistory:raw_stetha"
+					type: "item"
+				}
+				{
+					id: "39AE974784046C0B"
+					item: "unusualprehistory:cooked_stetha"
+					type: "item"
+				}
+			]
+			title: " &9&lAn Eyecatching Fish"
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"583240593D4CC537"
+				"0EFFFC431176B779"
+			]
+			description: [
+				"&fTo uncover the wonders of aquatic creatures, you first need to &astudy their environment&r. Complete the quests related to &bAquatic Flora&r to understand the &9delicate balance&r that sustains life beneath the waves."
+				"&eOnly then can you venture further into this watery world!"
+			]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:opalescent_pearl"
+			id: "2B34D2F5CF3D6425"
+			shape: "octagon"
+			size: 1.2d
+			subtitle: "&7The depths hold endless secrets..."
+			tasks: [{
+				id: "0ACD6396DB22B4E9"
+				title: "Dive into Knowledge!"
+				type: "checkmark"
+			}]
+			title: "&3&lExploring Aquatic Life"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1AF186874427A88C"
+				"2B34D2F5CF3D6425"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &6Palaeophis&r sheds its skin over time, leaving behind durable &7traces of history&r. Use them for crafting or trading. Its past is your gain!"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:palaeo_bucket"
+			id: "73E05E030F2760D0"
+			rewards: [
+				{
+					id: "1F46D2C4C8750729"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "5751E570CCB2DE1B"
+					item: "alexsmobs:shed_snake_skin"
+					type: "item"
+				}
+			]
+			subtitle: "One snake's trash is a man's tresure"
+			tasks: [
+				{
+					id: "0B82CBFC24BB4BC2"
+					item: "unusualprehistory:palaeo_embryo"
+					type: "item"
+				}
+				{
+					id: "7BF5A3C6AF92341C"
+					item: "unusualprehistory:palaeo_bucket"
+					type: "item"
+				}
+				{
+					id: "784BE639C600162A"
+					item: "unusualprehistory:palaeo_skin"
+					type: "item"
+				}
+			]
+			title: "&5&lSkin of Survival"
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["73E05E030F2760D0"]
+			dependency_requirement: "one_started"
+			description: [""]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:shedscale_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "14A432951F946A58"
+			rewards: [
+				{
+					id: "1A47985C95676093"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "270403C884A7925D"
+					item: "medieval_craft_weapons:titanite_ingot_4"
+					type: "item"
+				}
+				{
+					id: "615F221DB32A7641"
+					item: "minecraft:heart_of_the_sea"
+					type: "item"
+				}
+			]
+			subtitle: "&7Fins of Mastery"
+			tasks: [
+				{
+					id: "4036BC1AEFE6DA5F"
+					item: {
+						Count: 1
+						id: "unusualprehistory:shedscale_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B5F5EEC8393A54D"
+					item: {
+						Count: 1
+						id: "unusualprehistory:shedscale_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D15E8E77EE09217"
+					item: {
+						Count: 1
+						id: "unusualprehistory:shedscale_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72DE9E5A9B8FF470"
+					item: {
+						Count: 1
+						id: "unusualprehistory:shedscale_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&3&lSwimming with Grace"
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"583240593D4CC537"
+				"0EFFFC431176B779"
+			]
+			description: [
+				"&fBefore diving into the mysteries of the land's majestic creatures, you must first &alearn about their habitats&r. Study the terrestrial flora through the previous quests. "
+				""
+				"&eThe journey to understanding begins here!"
+				""
+				"&7&oTo unlock the secrets of fauna, complete the terrestrial flora missions.&r&r"
+			]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:foxxi_log"
+			id: "74482C4C4BBBF76C"
+			shape: "octagon"
+			size: 1.2d
+			subtitle: "&7Every ecosystem tells a story..."
+			tasks: [{
+				id: "72126C01AED2D6FE"
+				title: "Uncover the Prehistoric World"
+				type: "checkmark"
+			}]
+			title: "&6&lUnderstanding the Creatures"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"74482C4C4BBBF76C"
+				"2ADFA0D6450D2199"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &aCotylothynchus&r isn’t your average creature. Feed it, and it rewards you with &e\"Grog\"&r. A peculiar addition to your prehistoric world, but a valuable one!&7"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:grog"
+			id: "4DDC5E75874028FA"
+			rewards: [
+				{
+					id: "2AADF33951B5CFFA"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "5FF3C340C101E434"
+					item: "unusualprehistory:grog"
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			subtitle: "&7\"Not a cow but produces milk…\""
+			tasks: [
+				{
+					id: "50408F1C8F6A1996"
+					item: "unusualprehistory:coty_eggs"
+					type: "item"
+				}
+				{
+					id: "4121BF1E03451C01"
+					item: "unusualprehistory:grog"
+					type: "item"
+				}
+				{
+					id: "63A185D9AC7EECE8"
+					item: "unusualprehistory:raw_coty"
+					type: "item"
+				}
+				{
+					id: "7C521A1672447CBF"
+					item: "unusualprehistory:cooked_coty"
+					type: "item"
+				}
+				{
+					id: "2093CE1E027E00B5"
+					item: {
+						Count: 1
+						id: "unusualprehistory:meat_on_a_stick"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: " &6&lCotylothynchus"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fTrade special fruits like &eZuloagae&r with this ancient ape to gain its trust. Its size and strength make it a &bvaluable ally&r in the wild.&7"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:giganto_embryo"
+			id: "4BBD2D5DDAC7922D"
+			rewards: [
+				{
+					id: "0EAAFDB4464689F2"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "58AD33BB3A794529"
+					item: "medieval_craft_weapons:titanite_ingot_4"
+					type: "item"
+				}
+			]
+			subtitle: "&7\"A friend lost in time…\""
+			tasks: [
+				{
+					id: "3BAB5732A04613EC"
+					item: "unusualprehistory:giganto_embryo"
+					type: "item"
+				}
+				{
+					id: "667D73CBD937E25D"
+					item: "unusualprehistory:zuloagae"
+					type: "item"
+				}
+			]
+			title: " &6&lGigantopithecus"
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4BBD2D5DDAC7922D"]
+			description: [
+				"&fThe &6Gigantopithecus&r accepts &eZuloagae&r in exchange for an &cExotic Fruit Loot Box&r. Each trade unlocks a world of rare items that bring prehistoric wonders to life."
+				""
+				"&7Exotic flavors lead to exotic treasures."
+			]
+			icon: {
+				Count: 1
+				id: "unusualprehistory:fruit_loot_box"
+				tag: {
+					CustomModelData: 2
+					color: 3975347
+					display: {
+						Name: "{\"color\":\"white\",\"translate\":\"unusualprehistory.fruit_loot_box.exotic\"}"
+					}
+					tradeItem: {
+						Count: 1b
+						id: "unusualprehistory:zuloagae"
+					}
+					translationKey: "unusualprehistory.fruit_loot_box.exotic"
+				}
+			}
+			id: "440356C8C654E266"
+			rewards: [
+				{
+					id: "15D101E0633C0452"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "57DC2C1500837857"
+					item: "unusualprehistory:red_fruit"
+					random_bonus: 6
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7A Taste of Adventure"
+			tasks: [
+				{
+					id: "523B1CA82CEB7316"
+					item: {
+						Count: 1
+						id: "unusualprehistory:fruit_loot_box"
+						tag: {
+							CustomModelData: 2
+							color: 3975347
+							display: {
+								Name: "{\"color\":\"white\",\"translate\":\"unusualprehistory.fruit_loot_box.exotic\"}"
+							}
+							tradeItem: {
+								Count: 1b
+								id: "unusualprehistory:zuloagae"
+							}
+							translationKey: "unusualprehistory.fruit_loot_box.exotic"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "562782E37678BB04"
+					item: "unusualprehistory:red_fruit"
+					type: "item"
+				}
+			]
+			title: "&4&lExotic Trade"
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["440356C8C654E266"]
+			description: ["&fBring your &6Exotic fruits&r to the Gigantopithecus, and in return, receive a &bLuxurious Fruit Loot Box&r filled with exceptional finds. Indulge in the grandeur of ancient trades!"]
+			icon: {
+				Count: 1
+				id: "unusualprehistory:fruit_loot_box"
+				tag: {
+					CustomModelData: 3
+					color: 8355711
+					display: {
+						Name: "{\"color\":\"yellow\",\"translate\":\"unusualprehistory.fruit_loot_box.luxurious\"}"
+					}
+					tradeItem: {
+						Count: 1b
+						id: "unusualprehistory:red_fruit"
+					}
+					translationKey: "unusualprehistory.fruit_loot_box.luxurious"
+				}
+			}
+			id: "328EA9E46A99B6B6"
+			rewards: [
+				{
+					id: "4EE6816901BD0762"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "778F7E8778D1FD3F"
+					item: "unusualprehistory:white_fruit"
+					random_bonus: 6
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Opulence in a Box"
+			tasks: [
+				{
+					id: "166C6A24AC646012"
+					item: {
+						Count: 1
+						id: "unusualprehistory:fruit_loot_box"
+						tag: {
+							CustomModelData: 3
+							color: 8355711
+							display: {
+								Name: "{\"color\":\"yellow\",\"translate\":\"unusualprehistory.fruit_loot_box.luxurious\"}"
+							}
+							tradeItem: {
+								Count: 1b
+								id: "unusualprehistory:red_fruit"
+							}
+							translationKey: "unusualprehistory.fruit_loot_box.luxurious"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5FDCF787299E318A"
+					item: {
+						Count: 1
+						id: "unusualprehistory:handmade_battleaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D11B6E3791CDE92"
+					item: "unusualprehistory:white_fruit"
+					type: "item"
+				}
+			]
+			title: "&e&lLuxurious Exchange"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["328EA9E46A99B6B6"]
+			dependency_requirement: "one_started"
+			description: ["&fOffer the &6Luxurious Fruits&r to the Gigantopithecus to claim a &aRedolent Fruit Loot Box&r. Each box carries the unique aroma of prehistoric rarity."]
+			icon: {
+				Count: 1
+				id: "unusualprehistory:fruit_loot_box"
+				tag: {
+					CustomModelData: 4
+					color: 8355711
+					display: {
+						Name: "{\"color\":\"aqua\",\"translate\":\"unusualprehistory.fruit_loot_box.redolent\"}"
+					}
+					tradeItem: {
+						Count: 1b
+						id: "unusualprehistory:white_fruit"
+					}
+					translationKey: "unusualprehistory.fruit_loot_box.redolent"
+				}
+			}
+			id: "07D0FC746A47AC28"
+			rewards: [
+				{
+					id: "09DC430D71DB5000"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "00CF4EB31BA4EF63"
+					item: "unusualprehistory:yellow_fruit"
+					random_bonus: 6
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Scented Fortune"
+			tasks: [
+				{
+					id: "51CAF059827A6D92"
+					item: {
+						Count: 1
+						id: "unusualprehistory:fruit_loot_box"
+						tag: {
+							CustomModelData: 4
+							color: 8355711
+							display: {
+								Name: "{\"color\":\"aqua\",\"translate\":\"unusualprehistory.fruit_loot_box.redolent\"}"
+							}
+							tradeItem: {
+								Count: 1b
+								id: "unusualprehistory:white_fruit"
+							}
+							translationKey: "unusualprehistory.fruit_loot_box.redolent"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B529FDFD281BF17"
+					item: {
+						Count: 1
+						id: "unusualprehistory:handmade_club"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4564E8CE402C4EBC"
+					item: {
+						Count: 1
+						id: "unusualprehistory:barina_whistle"
+						tag: {
+							instrument: "unusualprehistory:ocarina"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FCC1AE199115B94"
+					item: "unusualprehistory:yellow_fruit"
+					type: "item"
+				}
+			]
+			title: "&3&lFragrant Rewards"
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["07D0FC746A47AC28"]
+			description: ["&fTrade &aRedolent Fruits&r with the Gigantopithecus to earn a &dSalubrious Fruit Loot Box&r. Inside lies the essence of prehistoric vitality and rewards beyond imagination."]
+			icon: {
+				Count: 1
+				id: "unusualprehistory:fruit_loot_box"
+				tag: {
+					CustomModelData: 5
+					color: 13421772
+					display: {
+						Name: "{\"color\":\"light_purple\",\"translate\":\"unusualprehistory.fruit_loot_box.salubrious\"}"
+					}
+					tradeItem: {
+						Count: 1b
+						id: "unusualprehistory:yellow_fruit"
+					}
+					translationKey: "unusualprehistory.fruit_loot_box.salubrious"
+				}
+			}
+			id: "23DE2108E73E143F"
+			rewards: [
+				{
+					id: "1FB33CCA4F16C5EC"
+					type: "xp"
+					xp: 2500
+				}
+				{
+					id: "475F3B030EE50EE0"
+					item: "unusualprehistory:blue_fruit_scraps"
+					random_bonus: 6
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "&7Healthy Gains"
+			tasks: [
+				{
+					id: "39F73C617370C45A"
+					item: {
+						Count: 1
+						id: "unusualprehistory:fruit_loot_box"
+						tag: {
+							CustomModelData: 5
+							color: 13421772
+							display: {
+								Name: "{\"color\":\"light_purple\",\"translate\":\"unusualprehistory.fruit_loot_box.salubrious\"}"
+							}
+							tradeItem: {
+								Count: 1b
+								id: "unusualprehistory:yellow_fruit"
+							}
+							translationKey: "unusualprehistory.fruit_loot_box.salubrious"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A970EC9E9B4400F"
+					item: {
+						Count: 1
+						id: "unusualprehistory:handmade_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54A618569F835DBE"
+					item: "unusualprehistory:blue_fruit"
+					type: "item"
+				}
+			]
+			title: "&d&lPristine Gifts"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+				"07D0FC746A47AC28"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &cBarinasuchus&r can be calmed using a &aCocorina&r. Its bite is powerful, but its temper is manageable if you know the secret. Proceed with care!"]
+			hide_until_deps_visible: true
+			icon: "unusualprehistory:barina_eggs"
+			id: "258A64C02B919864"
+			rewards: [
+				{
+					id: "1E36D9DDA846B275"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "5C49BE07CFF913F1"
+					item: "alexsmobs:crocodile_scute"
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			subtitle: "&7Handle with caution..."
+			tasks: [
+				{
+					id: "3837840F9112CF89"
+					item: "unusualprehistory:barina_eggs"
+					type: "item"
+				}
+				{
+					id: "6B228C78ED30ECD0"
+					item: {
+						Count: 1
+						id: "unusualprehistory:barina_whistle"
+						tag: {
+							instrument: "unusualprehistory:ocarina"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&c&lThis One Bites"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fHighly venomous but deadly useful. Let its &apoison&r coat your weapon for a truly &epredatory advantage&r in battle!"]
+			hide_until_deps_complete: true
+			id: "0E2658D288221D1D"
+			rewards: [
+				{
+					id: "1B4C9091C5F935EB"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "48F151B673A8A0BA"
+					item: {
+						Count: 1
+						id: "minecraft:lingering_potion"
+						tag: {
+							Potion: "minecraft:strong_poison"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: " &7A Venomous Ally"
+			tasks: [{
+				id: "03898DE478FB389E"
+				item: "unusualprehistory:megala_eggs"
+				type: "item"
+			}]
+			title: " &2&lPoison Fang"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"74482C4C4BBBF76C"
+				"2ADFA0D6450D2199"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fWhen threatened, their defensive plates &cdrop&r, providing an &eimpressive weapon material&r. Craft deadly gear to honor their strength."]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:primal_macuahuitl"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4DEF8983912A44B7"
+			rewards: [
+				{
+					id: "2E9C14972DC53909"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "24BDBED87E8AE73F"
+					item: "unusualprehistory:antarcto_plate"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "&7Blades of the Past"
+			tasks: [
+				{
+					id: "232E3C2793C07146"
+					item: "unusualprehistory:antarcto_eggs"
+					type: "item"
+				}
+				{
+					id: "19EAAEF5259B040F"
+					item: "unusualprehistory:antarcto_plate"
+					type: "item"
+				}
+				{
+					id: "6D84421392CA48F9"
+					item: {
+						Count: 1
+						id: "unusualprehistory:primal_macuahuitl"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&c&lSaw Tail"
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fNot only delicious, their &cfeathers&r can be crafted into &aleather boots&r that &eignore fall damage&r. Glide through the prehistoric skies like never before!"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:austro_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5694EC129C10CD10"
+			rewards: [
+				{
+					id: "5C0D4E5E7E1E2976"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "73F671D8550BD516"
+					item: "unusualprehistory:austro_feather"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "&7Feathers of Flight"
+			tasks: [
+				{
+					id: "1ECFE7C97F11BAE2"
+					item: "unusualprehistory:austro_eggs"
+					type: "item"
+				}
+				{
+					id: "3CA1A3454A9BCA70"
+					item: "unusualprehistory:raw_austro"
+					type: "item"
+				}
+				{
+					id: "72C3D769BCA2CD4A"
+					item: "unusualprehistory:cooked_austro"
+					type: "item"
+				}
+				{
+					id: "6EC94F5CD62A1D55"
+					item: "unusualprehistory:austro_feather"
+					type: "item"
+				}
+				{
+					id: "1CA3BAEA8B81CC1B"
+					item: {
+						Count: 1
+						id: "unusualprehistory:austro_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: " &4&lFalling with Grace"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fRaise it from infancy, and it’ll &adefend you&r with unparalleled loyalty. An &etank of companionship&r from the ancient world."]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:sloth_pouch_armor"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5FB9AEA859B8D3B7"
+			rewards: [
+				{
+					id: "257C1AC36BE20E6D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "2429E981B76529E0"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "aquamirae:potion_of_tenacity"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&7A Gentle Giant's Bond"
+			tasks: [
+				{
+					id: "683F38834C784E8F"
+					item: "unusualprehistory:megath_embryo"
+					type: "item"
+				}
+				{
+					id: "3D64163DD9DC3ECF"
+					item: "unusualprehistory:dino_pouch"
+					type: "item"
+				}
+				{
+					id: "62FF0915187FBB6E"
+					item: {
+						Count: 1
+						id: "unusualprehistory:sloth_pouch_armor"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&3&lIt’s Got Your Back"
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+				"5694EC129C10CD10"
+				"4DDC5E75874028FA"
+				"163D02C87619AA89"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &6Hwachavenator&r launches &cspikes&r at its enemies. Stay vigilant and prepare to counter its long-range attacks. Only the bold can tame such a predator!"]
+			hide_until_deps_visible: true
+			icon: "unusualprehistory:hwacha_eggs"
+			id: "648E85011775D19B"
+			rewards: [
+				{
+					id: "00DBA28571A39CED"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "717F8124E4E77F1B"
+					item: "alexsmobs:spiked_scute"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: " &7Deadly at a distance..."
+			tasks: [
+				{
+					id: "4022B994F322C928"
+					item: "unusualprehistory:hwacha_eggs"
+					type: "item"
+				}
+				{
+					id: "453A0A6C964F9167"
+					item: "unusualprehistory:meaty_buffet"
+					type: "item"
+				}
+			]
+			title: "&6&lSpike Thrower"
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThis dinosaur, similar to a &6bee&r, pollinates crops and accelerates growth. Befriend it to bring life and prosperity to your prehistoric farm!"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:anuro_eggs"
+			id: "7C6371AFE966EB28"
+			rewards: [
+				{
+					id: "5FBD00E3FC8306B5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "36D4DE33AE241A76"
+					item: "minecraft:bee_nest"
+					type: "item"
+				}
+			]
+			subtitle: "&7A buzzing companion..."
+			tasks: [{
+				id: "62BCFFC3BC0E05ED"
+				item: "unusualprehistory:anuro_eggs"
+				type: "item"
+			}]
+			title: " &e&lBeefriend Him"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fDefeat the mighty &cTyrannosaurus&r to weaken it. Use an &eAdorned Staff&r to interact and collect its scales and teeth without taking its life. "
+				""
+				"This peaceful approach will earn you powerful materials for crafting legendary gear."
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:rex_head"
+			id: "50A76A9371A1DFEA"
+			rewards: [
+				{
+					id: "48B3B152E4E1B2F2"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+				{
+					id: "5F62E216154E361E"
+					item: "medieval_craft_weapons:titanite_chunk_7"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6CE2AD9A2CE11D54"
+					item: "unusualprehistory:rex_scale"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "14720C5F1C66C7AC"
+					item: "unusualprehistory:rex_tooth"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "&7Even the mightiest can be pacified..."
+			tasks: [
+				{
+					id: "5E7CED5013330689"
+					item: "unusualprehistory:rex_eggs"
+					type: "item"
+				}
+				{
+					id: "5301F499397CEDAF"
+					item: {
+						Count: 1
+						id: "unusualprehistory:adorned_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3CE7DD991C36F0D8"
+					item: "unusualprehistory:rex_scale"
+					type: "item"
+				}
+				{
+					id: "546E8DA42AA069FE"
+					item: "unusualprehistory:rex_tooth"
+					type: "item"
+				}
+				{
+					id: "0215E5031E8F4ADA"
+					item: {
+						Count: 1
+						id: "unusualprehistory:tyrants_crown"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7473F314A0E31F2B"
+					item: "unusualprehistory:rex_boombox"
+					type: "item"
+				}
+				{
+					id: "1245F259F0891AA9"
+					item: "unusualprehistory:rex_head"
+					type: "item"
+				}
+				{
+					id: "27E01A0D6FCC77D9"
+					item: {
+						Count: 1
+						id: "unusualprehistory:veloci_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lThe Fall of the King"
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+				"50A76A9371A1DFEA"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fVelociraptors can &ainteract with amber buttons&r and &copen doors&r. Tame them wisely and collect their feathers, which are ideal for crafting a shield worthy of legends. "]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:veloci_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1601017A28D8E456"
+			rewards: [
+				{
+					id: "60989EA45CC289E3"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "00C21F713364B154"
+					item: "unusualprehistory:raptor_feathers"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "&7Masters of buttons and feathers."
+			tasks: [
+				{
+					id: "308447DA3F9A521F"
+					item: "unusualprehistory:raptor_eggs"
+					type: "item"
+				}
+				{
+					id: "315EAAB9E41FC21E"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "minecraft:doors"
+						}
+					}
+					title: "Any #minecraft:doors"
+					type: "item"
+				}
+				{
+					id: "4E009A3A8D1F1D36"
+					item: "unusualprehistory:amber_button"
+					type: "item"
+				}
+				{
+					id: "1CCA1350FAD79D5C"
+					item: "unusualprehistory:raptor_feathers"
+					type: "item"
+				}
+				{
+					id: "244AC622DCD500FA"
+					item: {
+						Count: 1
+						id: "unusualprehistory:veloci_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&c&lCurious and Clever"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+				"50A76A9371A1DFEA"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fWear the &6Tyrant's Crown&r to gain the Mammoth's respect and &ashear their thick fur&r. While their wool is precious, their meat serves as a &cnutritious source of sustenance&r. "
+				""
+				"&lWill you lead, or will you feast?&r"
+			]
+			hide_until_deps_visible: true
+			icon: "unusualprehistory:mammoth_meatball"
+			id: "04EA7A40090EEDC9"
+			rewards: [
+				{
+					id: "5783F54FA3CBFB7A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "2071016A6820E1C3"
+					item: "unusualprehistory:raw_mammoth"
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			subtitle: "&7Command the herd’s loyalty... or their meat."
+			tasks: [
+				{
+					id: "0E2B19B0E16650C8"
+					item: "unusualprehistory:mammoth_embryo"
+					type: "item"
+				}
+				{
+					id: "5ED2A7BBCECFEF5F"
+					item: {
+						Count: 1
+						id: "unusualprehistory:tyrants_crown"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B765CD0F8C6A08A"
+					item: {
+						Count: 1
+						id: "minecraft:shears"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "462A39C9457EBC10"
+					item: "unusualprehistory:raw_mammoth"
+					type: "item"
+				}
+				{
+					id: "07292F88BB6ADCC7"
+					item: "unusualprehistory:cooked_mammoth"
+					type: "item"
+				}
+				{
+					id: "72227BB62585DFAC"
+					item: "unusualprehistory:mammoth_meatball"
+					type: "item"
+				}
+			]
+			title: "&e&lThe Pack's Respect"
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fThe &aBrachiosaurus&r is noble and immense. While they can't be tamed, they can be saddled to help you reach great heights, perfect for launching into the skies with an &bElytra&r!"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:brachi_egg"
+			id: "5E94A44F038E0051"
+			rewards: [{
+				id: "06D81295DAEC34B7"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "&7A towering marvel..."
+			tasks: [
+				{
+					id: "7997487D75B11A56"
+					item: "unusualprehistory:brachi_egg"
+					type: "item"
+				}
+				{
+					id: "7A92F98E66677518"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+			]
+			title: " &a&lTall Fella"
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fBeware the &cPachycephalosaurus&r's powerful headbutt. Feed them &aGinkgo Seeds&r to avoid a concussion and earn their trust!"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:pachy_eggs"
+			id: "37E8D8D363C1C6A7"
+			rewards: [
+				{
+					id: "0516E9BBE903662C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "20574BDD985F70EA"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&7A walking battering ram..."
+			tasks: [
+				{
+					id: "583C027F9859ADEA"
+					item: "unusualprehistory:pachy_eggs"
+					type: "item"
+				}
+				{
+					id: "52131E92FD6AEBA5"
+					item: "unusualprehistory:raw_ginkgo_seeds"
+					type: "item"
+				}
+			]
+			title: "&c&lWatch Your Head"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fFeed them &aherbal horsetail&r to see their majestic &cspiked tails&r curl into a protective sphere. A wonder of evolution!"]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:kentro_eggs"
+			id: "14971C1687F2E22C"
+			rewards: [{
+				id: "6002F2BAF13D7FC6"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "&7The Defensive Roll"
+			tasks: [
+				{
+					id: "2C44DD2D13634FA9"
+					item: "unusualprehistory:kentro_eggs"
+					type: "item"
+				}
+				{
+					id: "15B67C49B26A6E8B"
+					item: "unusualprehistory:horsetail"
+					type: "item"
+				}
+			]
+			title: " &6&lSpike Ball"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"4DDC5E75874028FA"
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fCan be pacified with the correct meat. Block its mighty blows, and its powerful &cscutes&r can be transformed into an &aimpenetrable helmet&r."]
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:majunga_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0373B0A1BBCF3A0D"
+			rewards: [
+				{
+					id: "0A5A86FBEB67FCD8"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "5873F9B2ECA10DC5"
+					item: "unusualprehistory:majunga_scute"
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			subtitle: "&7Deflect, Survive, Dominate"
+			tasks: [
+				{
+					id: "52C8DB625E64FB9F"
+					item: "unusualprehistory:majunga_eggs"
+					type: "item"
+				}
+				{
+					id: "210005F6963461AA"
+					item: "unusualprehistory:raw_coty"
+					type: "item"
+				}
+				{
+					id: "18D02DF6D2154CEF"
+					item: {
+						Count: 1
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B7BAF2F52861C5D"
+					item: "unusualprehistory:majunga_scute"
+					type: "item"
+				}
+				{
+					id: "368A21D494DC445F"
+					item: {
+						Count: 1
+						id: "unusualprehistory:majunga_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&4&lHard Skull"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fThis towering herbivore can be quite temperamental."
+				""
+				"Beware, it doesn’t like surprises!"
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:paracer_embryo"
+			id: "2B2E7789DBE76B29"
+			rewards: [
+				{
+					id: "75C9013ADE4C003F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "226BF6CA9F2CABE4"
+					item: "unusualprehistory:tar_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "&7Big temper, bigger challenge..."
+			tasks: [{
+				id: "5DD8F9E8F7610D38"
+				item: "unusualprehistory:paracer_embryo"
+				type: "item"
+			}]
+			title: "&c&lColossal Herbivore"
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fThese elusive creatures thrive in caves and rooted dirt. "
+				""
+				"A small but vital link in the prehistoric ecosystem!"
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:talpanas_egg"
+			id: "15B6B2F4A2BFC503"
+			rewards: [
+				{
+					id: "2BC56E6F4AEABE08"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 5
+					id: "7EFBF2BE80293790"
+					item: "minecraft:rooted_dirt"
+					type: "item"
+				}
+			]
+			subtitle: "&7Shadows beneath the soil..."
+			tasks: [
+				{
+					id: "652A2BA3E0B64830"
+					item: "unusualprehistory:talpanas_egg"
+					type: "item"
+				}
+				{
+					id: "7932FEA309EEB201"
+					item: "minecraft:rooted_dirt"
+					type: "item"
+				}
+				{
+					id: "7CD149FC6F2D133A"
+					item: "minecraft:hanging_roots"
+					type: "item"
+				}
+			]
+			title: "&7&lRoot Dwellers"
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fTame a &aTriceratops&r using &aGinkgo fruit&r. As they grow, they shed their horns, perfect for crafting a &cpowerful shield&r. "
+				"A defensive ally for any prehistoric adventure!"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "unusualprehistory:trike_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "239FC7726C5081CE"
+			rewards: [
+				{
+					id: "341A4DCD116377B5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "2C336AF2A357E782"
+					item: {
+						Count: 1
+						id: "alexscaves:primordial_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&7A mighty shield awaits..."
+			tasks: [
+				{
+					id: "72F913CC6465FC21"
+					item: "unusualprehistory:trike_eggs"
+					type: "item"
+				}
+				{
+					id: "647B9D057E5C06D0"
+					item: "unusualprehistory:trike_horn"
+					type: "item"
+				}
+				{
+					id: "51A02A3F518AA55E"
+					item: {
+						Count: 1
+						id: "unusualprehistory:trike_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1960B90E0C89CAAA"
+					item: "unusualprehistory:ginkgo_fruit"
+					type: "item"
+				}
+				{
+					id: "0B7DC876C1303AE3"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+			]
+			title: "&6&lHorned Guardians"
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"2ADFA0D6450D2199"
+				"74482C4C4BBBF76C"
+			]
+			dependency_requirement: "all_started"
+			description: [
+				"&fTame the mighty &4Ulughbegsaurus&r by matching their crest color with the right food. "
+				""
+				"Each hue unlocks &aunique traits&r, find the one that suits your journey!"
+			]
+			hide_until_deps_complete: true
+			icon: "unusualprehistory:ulugh_eggs"
+			id: "7EE6326DEA4F8371"
+			rewards: [
+				{
+					id: "5A9A1E1ED430246F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "547956A5BFDDCA9E"
+					item: "sophisticatedbackpacks:advanced_feeding_upgrade"
+					type: "item"
+				}
+			]
+			subtitle: "&7A predator with a palette..."
+			tasks: [
+				{
+					id: "6F459D718308480B"
+					item: "unusualprehistory:ulugh_eggs"
+					type: "item"
+				}
+				{
+					id: "4C8F98C779B71140"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+				{
+					id: "19C0ECD9201D6557"
+					item: "unusualprehistory:raw_austro"
+					type: "item"
+				}
+				{
+					id: "1C855887F140A0B8"
+					item: "unusualprehistory:raw_scau"
+					type: "item"
+				}
+				{
+					id: "123B058B55075DE2"
+					item: "unusualprehistory:golden_scau"
+					type: "item"
+				}
+				{
+					id: "44BDB93A6AE998CA"
+					item: "unusualprehistory:raw_coty"
+					type: "item"
+				}
+				{
+					id: "22E27017E8444947"
+					item: "unusualprehistory:raw_stetha"
+					type: "item"
+				}
+			]
+			title: "&6&lColors of Power"
+			x: 1.0d
+			y: -2.5d
+		}
+	]
+	title: "&6 Fauna"
+}

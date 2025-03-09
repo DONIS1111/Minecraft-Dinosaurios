@@ -1,0 +1,24 @@
+{
+	id: "0B61A937C9E278FE"
+	loot_size: 3
+	order_index: 2
+	rewards: [
+		{ item: "unusualprehistory:pachy_fossil" }
+		{ item: "unusualprehistory:majunga_fossil" }
+		{ item: "unusualprehistory:dunk_fossil" }
+		{ item: "unusualprehistory:brachi_fossil" }
+		{ item: "unusualprehistory:beelze_fossil" }
+		{ item: "unusualprehistory:scau_fossil" }
+		{ item: "unusualprehistory:anuro_fossil" }
+		{ item: "unusualprehistory:stetha_fossil" }
+		{ item: "unusualprehistory:coty_fossil" }
+		{ item: "unusualprehistory:hwacha_fossil" }
+		{ item: "unusualprehistory:antarcto_fossil" }
+		{ item: "unusualprehistory:kentro_fossil" }
+		{ item: "unusualprehistory:ulugh_fossil" }
+		{ item: "unusualprehistory:austro_fossil" }
+		{ item: "unusualprehistory:eryon_fossil" }
+		{ item: "unusualprehistory:veloci_fossil" }
+	]
+	title: "Fosil"
+}

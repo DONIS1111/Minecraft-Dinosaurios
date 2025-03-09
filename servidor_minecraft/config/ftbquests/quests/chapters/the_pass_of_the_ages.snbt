@@ -1,0 +1,1289 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_pass_of_the_ages"
+	group: "6618FCDEE108C471"
+	icon: "minecraft:grindstone"
+	id: "1CF1FFDEEA94950B"
+	images: [
+		{
+			dependency: "09BC0E6631FF2657"
+			height: 3.0d
+			image: "minecraft:textures/gui/quests/6.png"
+			rotation: 0.0d
+			width: 2.585209003215434d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependency: "65348A7941173483"
+			height: 5.0d
+			image: "minecraft:textures/gui/quests/9.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependency: "3237C4AEC3A8A930"
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.9642857142857224d
+			y: 3.357142857142854d
+		}
+		{
+			dependency: "3237C4AEC3A8A930"
+			height: 1.0d
+			image: "ageofweapons:item/antiquity/recurve_bow_pulling_2"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.392857142857139d
+			y: 1.107142857142847d
+		}
+		{
+			dependency: "3237C4AEC3A8A930"
+			height: 1.0d
+			image: "ageofweapons:item/legendary/excalibur"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.3928571428571317d
+		}
+		{
+			dependency: "09BC0E6631FF2657"
+			height: 1.0d
+			image: "ageofweapons:item/piracy/machete_wood"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependency: "3237C4AEC3A8A930"
+			height: 1.0d
+			image: "ageofweapons:item/early_modern_age/multi_tool_diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5357142857142776d
+			y: 3.6785714285714164d
+		}
+		{
+			dependency: "65348A7941173483"
+			height: 1.0d
+			image: "ageofweapons:item/future/lightsaber_blue"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.392857142857139d
+			y: 6.60714285714284d
+		}
+		{
+			dependency: "26936596CC8FDCFE"
+			height: 1.0d
+			image: "ageofweapons:item/middle_ages/warhammer_netherite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.214285714285708d
+			y: 5.0357142857142705d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:textures/gui/quests/7.png"
+			rotation: 0.0d
+			width: 10.465116279069768d
+			x: -0.0535714285714306d
+			y: -1.2857142857142847d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["09BC0E6631FF2657"]
+			description: ["&fThe &7Stone Age&r marks the beginning of humanity’s ingenuity. To progress, gather &aStone Tools&r and experience the humble roots of creation. These items hold the &8key&r to unlocking new eras and innovations!"]
+			hide_until_deps_complete: true
+			icon: "ageofweapons:shard_stone"
+			id: "48BC456B14E59A11"
+			rewards: [
+				{
+					count: 8
+					id: "4984D89F149FC71A"
+					item: "ageofweapons:bandage"
+					type: "item"
+				}
+				{
+					id: "63FE18B3BD7F071C"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 6
+					id: "44FA553A9941A936"
+					item: "ageofweapons:cloth"
+					random_bonus: 6
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "&7Every great journey begins in the past."
+			tasks: [
+				{
+					id: "68C12112FFBFAC0C"
+					item: "ageofweapons:shard_stone"
+					type: "item"
+				}
+				{
+					id: "13E6C3D8E2C8F47E"
+					item: {
+						Count: 1
+						id: "ageofweapons:caveman_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DD118D07623D990"
+					item: {
+						Count: 1
+						id: "ageofweapons:hand_ax"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3CA2A27346156CE5"
+					item: {
+						Count: 1
+						id: "ageofweapons:ax_stone"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BB24FDC8BCAF512"
+					item: {
+						Count: 1
+						id: "ageofweapons:cudgel_stone"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lStone Age Legacy"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48BC456B14E59A11"]
+			dependency_requirement: "one_started"
+			description: ["&fEquip yourself with the &7Stone Spear&r, &7Caveman Set&r, and &6Primitive Shield&r. These ancient tools symbolize resilience and survival, key traits for conquering the challenges ahead."]
+			icon: {
+				Count: 1
+				id: "ageofweapons:spear_stone"
+				tag: {
+					Damage: 0
+					range: 3.5f
+				}
+			}
+			id: "0F2555BF76137387"
+			rewards: [
+				{
+					id: "23EC78F1A2D711FD"
+					item: {
+						Count: 1
+						id: "ageofweapons:multi_tool_stone"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "61780D3C88DCD4CF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 8
+					id: "1172C04FF3459A2C"
+					item: "ageofweapons:cloth"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "3BB79FDFB15FCB81"
+					item: "alexscaves:limestone_spear"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "&7Rediscover the roots of survival."
+			tasks: [
+				{
+					id: "4C5D2AFDA11A2BAF"
+					item: {
+						Count: 1
+						id: "ageofweapons:spear_stone"
+						tag: {
+							Damage: 0
+							range: 3.5f
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "619A0069899D57C3"
+					item: {
+						Count: 1
+						id: "ageofweapons:caveman_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D2617F6BD1E7DBC"
+					item: {
+						Count: 1
+						id: "ageofweapons:caveman_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49AB1AA4B81277C3"
+					item: {
+						Count: 1
+						id: "ageofweapons:caveman_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A4B5C278DDC0086"
+					item: {
+						Count: 1
+						id: "ageofweapons:caveman_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27755AF77B09D9C9"
+					item: {
+						Count: 1
+						id: "ageofweapons:shield_wood"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lCaveman's Legacy"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"0F2555BF76137387"
+				"3DB7C91590FFB7F6"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fPrepare for the challenges of the &6Middle Ages&r by equipping yourself. Prove your mettle as a true knight by mastering the &6forge&r and embracing the path of chivalry! 🛡⚔"]
+			icon: {
+				Count: 1
+				id: "ageofweapons:assassin_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0EEEFD92B2CED319"
+			rewards: [
+				{
+					count: 16
+					id: "5FE2306BADD1B815"
+					item: "ageofweapons:cast_net"
+					type: "item"
+				}
+				{
+					id: "72EA8C84E137D045"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "291B7C2B3A60E133"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:looting"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			subtitle: " &7Forge your destiny in steel and leather."
+			tasks: [
+				{
+					id: "0E0B62494A8784D9"
+					item: {
+						Count: 1
+						id: "ageofweapons:claw_sword_iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "736C4091C82A4335"
+					item: {
+						Count: 1
+						id: "ageofweapons:assassin_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F1EC1C9C107D33C"
+					item: {
+						Count: 1
+						id: "ageofweapons:assassin_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "70DDC8BB5EBC7C05"
+					item: {
+						Count: 1
+						id: "ageofweapons:assassin_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "395A8537FE0A9E31"
+					item: {
+						Count: 1
+						id: "ageofweapons:assassin_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01080CC125F3C896"
+					item: {
+						Count: 1
+						id: "ageofweapons:compound_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lKnights of the Realm"
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0F2555BF76137387"
+				"3DB7C91590FFB7F6"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fStep into the &6Edo Period&r and embrace the path of a ninja. Forge your &7iron claw&r, don your &7ninja armor&r. Your journey begins with the &aart of the forge&r. Prepare to protect your clan with skill and valor! 🗡🎌"]
+			icon: {
+				Count: 1
+				id: "ageofweapons:ninja_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0EBC12E7F3D47BC4"
+			rewards: [
+				{
+					count: 16
+					id: "0036C975F562DB48"
+					item: "ageofweapons:kunai"
+					type: "item"
+				}
+				{
+					id: "7C35CC0EC79C3DE8"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "6F6E77029A69DF1D"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:swift_sneak"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			subtitle: " &7Honor, discipline, and the art of the blade."
+			tasks: [
+				{
+					id: "1045F43551A17089"
+					item: {
+						Count: 1
+						id: "ageofweapons:claw_iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "543AF2B7453255C8"
+					item: {
+						Count: 1
+						id: "ageofweapons:ninja_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F538FD91C2AF846"
+					item: {
+						Count: 1
+						id: "ageofweapons:ninja_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F17F9EFBF3E677B"
+					item: {
+						Count: 1
+						id: "ageofweapons:ninja_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44D1DF1C38A1DC56"
+					item: {
+						Count: 1
+						id: "ageofweapons:ninja_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "75CE9377ADF6AE4B"
+					item: {
+						Count: 1
+						id: "ageofweapons:shield_stone"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lWay of the Ninja"
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0EBC12E7F3D47BC4"
+				"0EEEFD92B2CED319"
+				"5F6F4400C1A18DE3"
+			]
+			dependency_requirement: "all_started"
+			description: ["&fStep into the &aEarly Modern Era&r, where the foundations of modern industry are laid. Equip your &7tools&r, don your &2pioneer gear&r, and forge ahead into an age of progress. Master &cIron Casting&r to create the machines and tools that will define this revolutionary time! ⚙🛠"]
+			icon: {
+				Count: 1
+				id: "ageofweapons:soldier_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3237C4AEC3A8A930"
+			rewards: [
+				{
+					count: 3
+					id: "49EBB30114596900"
+					item: "ageofweapons:frag_grenade"
+					type: "item"
+				}
+				{
+					id: "1366FB3470C34ECF"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
+					id: "2968FEA5BD09B060"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:blast_protection"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "466377A071AC0564"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4F23559EC9CBADE4"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&7A new dawn of innovation."
+			tasks: [
+				{
+					id: "257DA961F824FDAB"
+					item: {
+						Count: 1
+						id: "ageofweapons:iron_crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67C51F94E80C57C9"
+					item: {
+						Count: 1
+						id: "ageofweapons:multi_tool_iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E55276311288BA0"
+					item: {
+						Count: 1
+						id: "ageofweapons:soldier_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36C94758B7A98313"
+					item: {
+						Count: 1
+						id: "ageofweapons:soldier_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1CFF2E2CF84FCAF0"
+					item: {
+						Count: 1
+						id: "ageofweapons:soldier_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BD243DCA3AE6AB5"
+					item: {
+						Count: 1
+						id: "ageofweapons:soldier_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E06F776B8E56871"
+					item: {
+						Count: 1
+						id: "ageofweapons:shield_iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lEarly Modern Era"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"3237C4AEC3A8A930"
+				"5E025C491B10A4A9"
+			]
+			description: ["&fWelcome to the &aModern Era&r, where innovation and craftsmanship converge. &7Reinforce Iron&r, forge state-of-the-art &3tools&r, and don sleek &7modern armor&r. The possibilities are endless as you embrace the cutting edge of technology and design. 💡⚒"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:advanced_soldier_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "26936596CC8FDCFE"
+			rewards: [
+				{
+					id: "006940B31834E843"
+					item: {
+						Count: 1
+						id: "ageofweapons:electrostaff"
+						tag: {
+							Damage: 0
+							range: 3.5f
+							reequip: 0b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0DB1B051EFD65709"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "3FCA5942EDC4F9C6"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "02A789D16D7A95D6"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "553634C56F9489EF"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			subtitle: " &7Tools of the present, built for the future."
+			tasks: [
+				{
+					id: "001A597DB907FC81"
+					item: {
+						Count: 1
+						id: "ageofweapons:katana_diamond"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F2182CE5491BA4E"
+					item: {
+						Count: 1
+						id: "ageofweapons:multi_tool_diamond"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DD3D514444F09FF"
+					item: {
+						Count: 1
+						id: "ageofweapons:advanced_soldier_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "18636144883DE7B1"
+					item: {
+						Count: 1
+						id: "ageofweapons:advanced_soldier_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AACC91DC105DD91"
+					item: {
+						Count: 1
+						id: "ageofweapons:advanced_soldier_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DAF15953785392B"
+					item: {
+						Count: 1
+						id: "ageofweapons:advanced_soldier_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A173922E47CF63B"
+					item: {
+						Count: 1
+						id: "ageofweapons:shield_diamond"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&lModern Marvels"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"26936596CC8FDCFE"
+				"5E025C491B10A4A9"
+			]
+			description: ["&fStep into the &aFuture&r, where advanced technology and sleek designs redefine possibilities. Craft your &3futuristic armor&r and &cstate-of-the-art tools&r, paving the way for boundless innovation. The journey ahead holds limitless potential, will you lead the charge? 🚀✨"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:mech_suit_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "65348A7941173483"
+			rewards: [
+				{
+					count: 16
+					id: "56093BE5638D44D8"
+					item: "ageofweapons:tank_poison"
+					type: "item"
+				}
+				{
+					id: "4F04491B1848D727"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 16
+					id: "428349212F5C85CE"
+					item: "ageofweapons:tank_flame"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "70AAC3A81113C071"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "3E7CDC0D28CF945C"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "6094D31DF8470D2A"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			subtitle: "&7Pioneering the unknown."
+			tasks: [
+				{
+					id: "4E6754DB27609320"
+					item: {
+						Count: 1
+						id: "ageofweapons:multi_tool_netherite"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C7110EF4A711B85"
+					item: {
+						Count: 1
+						id: "ageofweapons:mech_suit_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64DEE053E1EA7404"
+					item: {
+						Count: 1
+						id: "ageofweapons:mech_suit_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B82C6EEA8ECAA8A"
+					item: {
+						Count: 1
+						id: "ageofweapons:shield_netherite"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2BC76BADBB92C858"
+					item: {
+						Count: 1
+						id: "ageofweapons:mech_suit_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F9702C4B18E0A84"
+					item: {
+						Count: 1
+						id: "ageofweapons:mech_suit_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&b&lBack to the future"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["26936596CC8FDCFE"]
+			description: ["&fUnleash the might of &aindustrial machines&r and advanced tools! Craft a &cThrower&r, whether lava, water, or venom, and revolutionize your efficiency with a powerful &bIndustrial Machine&r. Transform simple tasks into grand-scale operations. 🚜💥"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ageofweapons:industrial_multi_tool"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3BFC2CEF659704FF"
+			rewards: [
+				{
+					count: 16
+					id: "43D1B02B747872D0"
+					item: "ageofweapons:tank_poison"
+					type: "item"
+				}
+				{
+					id: "0BAB1D97B011B0E6"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 16
+					id: "531AAEC02A9EFD5D"
+					item: "ageofweapons:tank_flame"
+					type: "item"
+				}
+				{
+					id: "1C6C8D7518793155"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "51660AE5803EF759"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DFA7CE36A154A62"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			subtitle: "&7Power, Precision, and Potential."
+			tasks: [
+				{
+					id: "0812A4B7007B3E85"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:tools/throwers"
+						}
+					}
+					title: "Craft any type of thrower"
+					type: "item"
+				}
+				{
+					id: "70F7CD0A4DCD7029"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:tools/industrial_machines"
+						}
+					}
+					title: "Craft any type of industrial machine"
+					type: "item"
+				}
+			]
+			title: "&c&lIndustrial Revolution"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["65348A7941173483"]
+			description: ["&fThe galaxy is vast, but your destiny begins here. Craft your first &bLightsaber&r and step into a legacy of heroes and villains. Choose your path wisely; balance or chaos, the choice is yours. Will you bring &blight&r to the galaxy... or &cdarkness&r? "]
+			id: "7A08CF61AD6C7A21"
+			rewards: [
+				{
+					id: "102C3E5E134D5E91"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "0BDE93E38B645412"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "&7Harness the power of the Force."
+			tasks: [{
+				id: "2829659896701BE0"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "ageofweapons:lightsaber_red"
+								tag: {
+									Damage: 0
+									reequip: 0b
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:lightsaber_blue"
+								tag: {
+									Damage: 0
+									reequip: 0b
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:lightsaber_green"
+								tag: {
+									Damage: 0
+									reequip: 0b
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:lightsaber_yellow"
+								tag: {
+									Damage: 0
+									reequip: 0b
+								}
+							}
+						]
+					}
+				}
+				title: "Create a lightsaber"
+				type: "item"
+			}]
+			title: "&b&lA New Forge Awakens"
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7A08CF61AD6C7A21"]
+			description: ["&fForge the legendary &dDouble-Bladed Lightsaber&r, a weapon of unparalleled elegance and lethality. Wield it with precision and dominate your enemies. The force is strong with this one!"]
+			hide_until_deps_complete: true
+			id: "68A43565EBA4237C"
+			rewards: [
+				{
+					id: "2666F7E36E03F9C0"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+				{
+					id: "30C280CCB4285971"
+					item: "medieval_craft_weapons:titanite_slab_10"
+					type: "item"
+				}
+			]
+			subtitle: " &7Master the art of dual destruction."
+			tasks: [{
+				id: "4C987F69C28A4C9A"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "ageofweapons:double_lightsaber_blue"
+								tag: {
+									Damage: 0
+									range: 3.5f
+									reequip: 0b
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:double_lightsaber_green"
+								tag: {
+									Damage: 0
+									range: 3.5f
+									reequip: 0b
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:double_lightsaber_yellow"
+								tag: {
+									Damage: 0
+									range: 3.5f
+									reequip: 0b
+								}
+							}
+							{
+								Count: 1b
+								id: "ageofweapons:double_lightsaber_red"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Craft a Double-Lightsaber"
+				type: "item"
+			}]
+			title: " &d&lTwice the Blade, Twice the Power"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["65348A7941173483"]
+			description: ["&fCraft the &4Imploder&r and the &6Cluster Grenade&r, two of the most devastating explosives known. The Imploder pulls everything into oblivion, while the Cluster Grenade unleashes chaos in a shower of smaller explosions. Master these tools of destruction and rewrite the rules of the battlefield! 💥🔥"]
+			id: "1449A6986A686D4A"
+			rewards: [
+				{
+					id: "63C4FF3FC4B29D27"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 12
+					id: "4C26ECEB23DEE2F7"
+					item: "more_bows_and_arrows:tnt_arrow"
+					random_bonus: 4
+					type: "item"
+				}
+			]
+			subtitle: "&7Harness destruction in your hands."
+			tasks: [
+				{
+					id: "7AB9546F1B0968B2"
+					item: "ageofweapons:cluster_grenade"
+					type: "item"
+				}
+				{
+					id: "0C7669B2ACD91135"
+					item: "ageofweapons:imploder"
+					type: "item"
+				}
+			]
+			title: "&4&lBooms Beyond Imagination"
+			x: 1.0d
+			y: 6.0d
+		}
+	]
+	title: "&b The pass of the ages"
+}
