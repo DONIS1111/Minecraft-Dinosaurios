@@ -2364,13 +2364,25 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "deflected_projectile": "2025-03-09 04:11:34 +0000"
+      "has_salmon": "2025-03-09 04:07:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-09 04:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-09 04:07:57 +0000"
+    },
+    "done": true
+  },
+  "seafarer:recipes/food/salted_salmon": {
     "criteria": {
       "has_salmon": "2025-03-09 04:07:57 +0000"
     },
@@ -2388,21 +2400,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-03-09 04:07:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-03-09 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-03-09 04:07:57 +0000"
     },
     "done": true
   },
@@ -2412,9 +2412,93 @@
     },
     "done": true
   },
-  "seafarer:recipes/food/salted_salmon": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_salmon": "2025-03-09 04:07:57 +0000"
+      "deflected_projectile": "2025-03-09 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_purple_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 17:00:51 +0000"
     },
     "done": true
   },
