@@ -2346,6 +2346,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:tabby": "2025-03-09 17:08:54 +0000",
       "minecraft:all_black": "2025-03-09 04:03:39 +0000",
       "minecraft:ragdoll": "2025-03-09 04:08:39 +0000",
       "minecraft:red": "2025-03-09 04:03:45 +0000"
@@ -2430,6 +2431,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_campfire_cooking": {
+    "criteria": {
+      "has_pike": "2025-03-09 17:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-03-09 17:00:51 +0000"
@@ -2439,6 +2446,12 @@
   "upgrade_aquatic:recipes/building_blocks/dye_purple_bedroll": {
     "criteria": {
       "has_needed_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_smoking": {
+    "criteria": {
+      "has_pike": "2025-03-09 17:12:17 +0000"
     },
     "done": true
   },
@@ -2478,6 +2491,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/food/cooked_pike": {
+    "criteria": {
+      "has_pike": "2025-03-09 17:12:17 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-03-09 17:00:51 +0000"
@@ -2493,6 +2512,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-09 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-03-09 17:03:47 +0000"
     },
     "done": true
   },
