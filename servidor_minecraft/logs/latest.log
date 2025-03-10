@@ -1085,3 +1085,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:52:04.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 8 [Lily Pad] to Donita1]
 [10Mar2025 02:08:41.758] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11606, l='ServerLevel[world]', x=180.50, y=69.00, z=-363.50]
 [10Mar2025 02:10:27.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12927, l='ServerLevel[world]', x=527.50, y=73.00, z=-495.50]
+[10Mar2025 02:17:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]

@@ -11769,3 +11769,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 02:12:11.431] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
 [10Mar2025 02:12:11.435] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
 [10Mar2025 02:12:11.442] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[10Mar2025 02:12:47.311] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of theorcs:orc_camp
+[10Mar2025 02:12:58.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[10Mar2025 02:13:00.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:13:00.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:13:05.473] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$da6e259bbd154acdb9fb9fc5861c532e (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[10Mar2025 02:17:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[10Mar2025 02:18:00.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:18:00.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:20:47.943] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[10Mar2025 02:20:47.951] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[10Mar2025 02:21:04.074] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[10Mar2025 02:21:06.908] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[10Mar2025 02:21:06.909] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_3
+[10Mar2025 02:21:06.912] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[10Mar2025 02:21:06.916] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[10Mar2025 02:21:06.920] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[10Mar2025 02:21:06.926] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[10Mar2025 02:21:06.931] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[10Mar2025 02:21:06.931] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[10Mar2025 02:21:07.176] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[10Mar2025 02:21:08.027] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[10Mar2025 02:21:09.495] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[10Mar2025 02:21:09.498] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[10Mar2025 02:21:09.503] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[10Mar2025 02:21:09.505] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[10Mar2025 02:21:09.511] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[10Mar2025 02:21:40.775] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[10Mar2025 02:21:40.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[10Mar2025 02:21:40.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[10Mar2025 02:21:40.795] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[10Mar2025 02:21:40.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[10Mar2025 02:21:40.802] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[10Mar2025 02:21:55.252] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[10Mar2025 02:21:55.257] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[10Mar2025 02:21:55.416] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (596 | 40 | 148).
+[10Mar2025 02:21:55.417] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[10Mar2025 02:21:55.419] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[10Mar2025 02:21:55.419] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 4(0) Rooms
+[10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(3) Nodes and 5(0) Rooms
+[10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[10Mar2025 02:21:55.421] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms

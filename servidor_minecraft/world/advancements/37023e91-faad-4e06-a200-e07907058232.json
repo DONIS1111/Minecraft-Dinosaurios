@@ -4588,6 +4588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-10 02:16:50 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
@@ -4621,6 +4627,12 @@
   "connectedglass:recipes/misc/borderless_glass_green_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-03-10 02:16:50 +0000"
     },
     "done": true
   },
@@ -4663,6 +4675,12 @@
   "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-10 02:16:50 +0000"
     },
     "done": true
   },
