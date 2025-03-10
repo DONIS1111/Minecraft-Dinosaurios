@@ -4552,6 +4552,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-10 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
@@ -4576,45 +4636,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/amethyst_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-10 01:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-03-10 02:16:50 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-10 01:51:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-03-10 02:37:52 +0000"
     },
     "done": true
   },
@@ -4636,27 +4660,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
-    "criteria": {
-      "has_stripped_spruce_log": "2025-03-10 02:16:50 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_red_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-03-10 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
     },
     "done": true
   },
@@ -4666,33 +4672,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/allurite_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-10 01:51:34 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
-    "criteria": {
-      "has_glowstone": "2025-03-10 01:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-10 01:47:31 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-10 02:16:50 +0000"
     },
     "done": true
   },
@@ -4714,27 +4696,69 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-10 01:51:34 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_black_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-10 01:28:01 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
     "criteria": {
       "recipe_condition1": "2025-03-10 01:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-10 02:16:50 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-03-10 02:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-10 02:16:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-10 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-10 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-03-10 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-03-10 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-10 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-10 02:48:23 +0000"
     },
     "done": true
   },
