@@ -11665,3 +11665,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:51:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 3 [Hopper] to Donita1]
 [10Mar2025 01:51:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Glowstone] to Donita1]
 [10Mar2025 01:52:04.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 8 [Lily Pad] to Donita1]
+[10Mar2025 01:52:49.057] [Netty Epoll Server IO #2/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@5326c397 for service interface mezz.jei.common.platform.IPlatformHelper
+[10Mar2025 01:53:00.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:53:00.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:58:00.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:58:00.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

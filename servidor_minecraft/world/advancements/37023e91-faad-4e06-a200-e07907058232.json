@@ -4558,9 +4558,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-03-10 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
     },
     "done": true
   },
@@ -4570,9 +4582,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-03-10 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-10 01:51:34 +0000"
     },
     "done": true
   },

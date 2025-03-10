@@ -7133,6 +7133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 01:54:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-03-10 01:39:30 +0000"
@@ -7148,6 +7154,12 @@
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2025-03-10 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 01:54:11 +0000"
     },
     "done": true
   },
