@@ -11670,3 +11670,102 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:53:00.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Mar2025 01:58:00.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 01:58:00.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:03:00.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:03:00.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:08:00.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:08:00.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:08:26.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[10Mar2025 02:08:26.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[10Mar2025 02:08:26.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[10Mar2025 02:08:41.758] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11606, l='ServerLevel[world]', x=180.50, y=69.00, z=-363.50]
+[10Mar2025 02:09:22.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[10Mar2025 02:10:13.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[10Mar2025 02:10:21.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[10Mar2025 02:10:27.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12927, l='ServerLevel[world]', x=527.50, y=73.00, z=-495.50]
+[10Mar2025 02:10:33.751] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[10Mar2025 02:10:33.769] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[10Mar2025 02:10:33.779] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[10Mar2025 02:10:33.795] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[10Mar2025 02:10:40.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[10Mar2025 02:10:40.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[10Mar2025 02:10:40.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[10Mar2025 02:10:40.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[10Mar2025 02:10:40.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[10Mar2025 02:10:40.423] [Worker-Main-27/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[10Mar2025 02:10:40.424] [Worker-Main-27/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[10Mar2025 02:10:46.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[10Mar2025 02:10:46.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_2
+[10Mar2025 02:10:46.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/escort/escort_1
+[10Mar2025 02:10:46.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_1
+[10Mar2025 02:10:46.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_4
+[10Mar2025 02:10:46.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/mothership/mothership_1
+[10Mar2025 02:10:46.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/escort/escort_2
+[10Mar2025 02:10:46.658] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[10Mar2025 02:10:46.665] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[10Mar2025 02:10:46.674] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[10Mar2025 02:10:46.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
+[10Mar2025 02:10:46.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[10Mar2025 02:10:46.719] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[10Mar2025 02:10:51.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[10Mar2025 02:10:51.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Mar2025 02:10:53.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[10Mar2025 02:10:55.244] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexthe666/iceandfire/entity/tile/PixieJarInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[10Mar2025 02:10:57.296] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
+[10Mar2025 02:11:44.325] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
+[10Mar2025 02:11:47.576] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[10Mar2025 02:11:47.582] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[10Mar2025 02:12:06.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[10Mar2025 02:12:06.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[10Mar2025 02:12:06.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[10Mar2025 02:12:06.558] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[10Mar2025 02:12:06.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[10Mar2025 02:12:06.566] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[10Mar2025 02:12:06.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[10Mar2025 02:12:06.576] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[10Mar2025 02:12:06.604] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_taiga/base_plate is being run through DFU (hash 76a3bbd60d98bbe842eb3633e39fefd6c607daf35da9eae0abcdba30a155310c), this will cause launch time delays
+[10Mar2025 02:12:07.173] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/tudor/base_plate is being run through DFU (hash 2e635aec7cd9c928a0e1f85b2040f11087463ddbe83a8dbcf0fa4bcdda4b66b8), this will cause launch time delays
+[10Mar2025 02:12:07.328] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/swedish/base_plate is being run through DFU (hash 7bbe5d1074795bb106a224836677f596eb214edcb479244fdbe4cc94bd00f133), this will cause launch time delays
+[10Mar2025 02:12:07.445] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/flower_forest/base_plate is being run through DFU (hash 196870aa8df7ccddd84b916d2b639ab1bd1308f6ffa1e98f248c53e162a8daab), this will cause launch time delays
+[10Mar2025 02:12:07.519] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/jungle/base_plate is being run through DFU (hash 51b3896194db686d94c76a4d1f1cf94206abc2e10392db52d0278f6c2d97edaf), this will cause launch time delays
+[10Mar2025 02:12:07.622] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/mushroom_fields/base_plate is being run through DFU (hash b760d725d73ca7044be56ac0a402541b78066fadf793e5c09d1c5e3a497cd966), this will cause launch time delays
+[10Mar2025 02:12:07.692] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_slopes/base_plate is being run through DFU (hash 765af0ac54824938fd1ac1b78406fc88a1e1fd7999d8e58cda6e32dbc5f6a46f), this will cause launch time delays
+[10Mar2025 02:12:07.762] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/birch/base_plate is being run through DFU (hash 630514a255a56595578b1a3e9a24c7963f1ae59dbfbedc68975967801b37de00), this will cause launch time delays
+[10Mar2025 02:12:07.821] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/sunflower_plains/base_plate is being run through DFU (hash 06f16f97b09a5e8adc7290c708759fc6b5c8159601ef1fdba9bf6c614d2197b1), this will cause launch time delays
+[10Mar2025 02:12:07.891] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/taiga/base_plate is being run through DFU (hash c696035904979394c4ecc3d506d2009e052646afd1b666561d65b07e10196f89), this will cause launch time delays
+[10Mar2025 02:12:07.959] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_plains/base_plate is being run through DFU (hash d0d1fb1e575734c3adab9e4e2abce922ec487678e59b03c90521a8fd2e669e78), this will cause launch time delays
+[10Mar2025 02:12:08.093] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/wooded_badlands/base_plate is being run through DFU (hash 99c4dddde1c6b825620572591e0ca0fb8af377b9a9332e507ae5dd3777e9029b), this will cause launch time delays
+[10Mar2025 02:12:08.117] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/iberian/base_plate is being run through DFU (hash 24ee45fa64f34e3e1aac4e02469896e46af6be51ee2fcb004102bf0e6c045f59), this will cause launch time delays
+[10Mar2025 02:12:08.198] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/classic/base_plate is being run through DFU (hash 50297fbcc31dc4b890033366c281432ad93936c2ae3603d986ab7aeca867f627), this will cause launch time delays
+[10Mar2025 02:12:08.250] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/savanna/base_plate is being run through DFU (hash 9ba74f75a48a768b2b9c622884d82dcce256810b26e0d2ea849ab8dd70d67311), this will cause launch time delays
+[10Mar2025 02:12:08.296] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/grove/base_plate is being run through DFU (hash 8d58e65730b97353a91f7a16a6932a05206b18e0201f04d02ea0eac5c38777d4), this will cause launch time delays
+[10Mar2025 02:12:08.423] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/meadow/base_plate is being run through DFU (hash df0ceae8e838681e4f8dd4c14431774decfa99a9e4366cba93582c6adadce715), this will cause launch time delays
+[10Mar2025 02:12:08.474] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/beach/base_plate is being run through DFU (hash 04f63caa92d93e3371a61edb0f1aa9f76e01e43290dd3787b8bebd76793fb993), this will cause launch time delays
+[10Mar2025 02:12:08.517] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/desert/base_plate is being run through DFU (hash 4a6ba8041d86bb7b58bb46f44eb1387d1e1500547bb18c2df4e9fcf6c0b97d4e), this will cause launch time delays
+[10Mar2025 02:12:08.616] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/sparse_jungle/base_plate is being run through DFU (hash 10851b17d358ebf99da31ba24183f43e68df5b4ea88fd1dafcfeb3d7a204f71f), this will cause launch time delays
+[10Mar2025 02:12:08.643] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/oriental/base_plate is being run through DFU (hash 6211e7c7a3df70dc70bead242994ac8a5600ba477ac3d19128b766f92f4ba880), this will cause launch time delays
+[10Mar2025 02:12:08.741] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/old_growth_taiga/base_plate is being run through DFU (hash 4fab3ae3262ef924648080808305fb2e24b915799758bfbd9c081595b17fa577), this will cause launch time delays
+[10Mar2025 02:12:08.817] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/swamp/base_plate is being run through DFU (hash a637958631330250aae3cbb1e69cedcd08a2e33a1a78e38b337d1a3ae66139be), this will cause launch time delays
+[10Mar2025 02:12:08.874] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/snowy_beach/base_plate is being run through DFU (hash efecd9053cdde1e653f974f85f54b218ecbccb5ebcabac51791131f1a00ee1ca), this will cause launch time delays
+[10Mar2025 02:12:08.908] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/rustic/base_plate is being run through DFU (hash 9d528db066af5e1af7f04d92059ea0e1be0e63536de733f29482126835511441), this will cause launch time delays
+[10Mar2025 02:12:09.037] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/forest/base_plate is being run through DFU (hash 0a5753bb7ca9c6fa9a8254c57a1b99c31b73947e46565a6f9d861f92207ca052), this will cause launch time delays
+[10Mar2025 02:12:09.096] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/base_plate is being run through DFU (hash 65ccd928c9ba94aaac2450eae5e52f39206179062f0c5fd804906560ad88386a), this will cause launch time delays
+[10Mar2025 02:12:09.131] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/badlands/base_plate is being run through DFU (hash a56be22e1763125b0c5db2f12728b5645216f29e2726239ce921cd903cb93c21), this will cause launch time delays
+[10Mar2025 02:12:09.206] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/pillager_outpost_ocean/base_plate is being run through DFU (hash f6771cf443289d3b6e4105472d5434c1ada6691694339598c38a0b509da1447c), this will cause launch time delays
+[10Mar2025 02:12:09.582] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[10Mar2025 02:12:09.586] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[10Mar2025 02:12:09.589] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[10Mar2025 02:12:09.590] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[10Mar2025 02:12:09.596] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[10Mar2025 02:12:09.599] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[10Mar2025 02:12:09.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[10Mar2025 02:12:09.606] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[10Mar2025 02:12:09.611] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[10Mar2025 02:12:09.614] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[10Mar2025 02:12:09.617] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[10Mar2025 02:12:09.693] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[10Mar2025 02:12:09.697] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[10Mar2025 02:12:11.405] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[10Mar2025 02:12:11.425] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[10Mar2025 02:12:11.431] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[10Mar2025 02:12:11.435] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[10Mar2025 02:12:11.442] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
