@@ -11646,3 +11646,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:28:07.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4547, l='ServerLevel[world]', x=179.50, y=69.00, z=-362.50]
 [10Mar2025 01:28:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [10Mar2025 01:31:08.220] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/block/blockentity/TackleBoxBlockEntity$2 (target of net/minecraftforge/items/IItemHandler)
+[10Mar2025 01:32:49.713] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/slot/SlotFishingRod (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:32:49.714] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/slot/SlotHidable (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:32:49.714] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$2 (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:32:49.714] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$3 (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:32:49.715] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$4 (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:32:49.715] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$5 (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:33:00.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:33:00.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:38:00.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:38:00.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
