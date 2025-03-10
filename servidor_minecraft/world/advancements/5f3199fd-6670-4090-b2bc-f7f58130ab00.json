@@ -6713,15 +6713,129 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/azalea_chest_boat": {
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
-      "has_boat": "2025-03-09 21:12:35 +0000"
+      "has_flower": "2025-03-09 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-09 20:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-09 20:56:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-03-09 20:57:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-03-09 20:57:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-03-09 20:58:23 +0000"
     },
     "done": true
   },
   "upgrade_aquatic:recipes/building_blocks/dye_black_bedroll": {
     "criteria": {
       "has_needed_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
+    "criteria": {
+      "has_mulberry": "2025-03-09 21:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-09 21:08:45 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-09 21:12:35 +0000"
     },
     "done": true
   },
@@ -6755,30 +6869,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_black_pane1": {
-    "criteria": {
-      "recipe_condition": "2025-03-09 20:58:23 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-09 21:14:33 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
@@ -6797,36 +6887,6 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
-    "criteria": {
-      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_black1": {
-    "criteria": {
-      "recipe_condition": "2025-03-09 20:57:28 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
@@ -6836,18 +6896,6 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-09 21:08:45 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
-    "criteria": {
-      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
     },
     "done": true
   },
@@ -6881,27 +6929,9 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
-    "criteria": {
-      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
-    "criteria": {
-      "has_mulberry": "2025-03-09 21:03:38 +0000"
     },
     "done": true
   },
@@ -6923,27 +6953,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-09 20:56:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-09 20:58:32 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-09 20:58:32 +0000"
     },
     "done": true
   },
@@ -6956,12 +6968,6 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-03-09 20:56:41 +0000"
     },
     "done": true
   },
@@ -6980,12 +6986,6 @@
   "upgrade_aquatic:recipes/transportation/river_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-03-09 20:58:32 +0000"
     },
     "done": true
   },
@@ -7013,12 +7013,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
-    "criteria": {
-      "recipe_condition": "2025-03-09 20:57:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
@@ -7043,33 +7037,39 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
-    "criteria": {
-      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-09 21:12:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_candle": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_black_dye": "2025-03-09 20:58:32 +0000"
+      "lava_bucket": "2025-03-09 21:14:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
     "criteria": {
-      "has_needed_dye": "2025-03-09 20:58:32 +0000"
+      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
     "criteria": {
-      "has_flower": "2025-03-09 20:46:12 +0000"
+      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
+    "criteria": {
+      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
+    "criteria": {
+      "has_pickerelweed": "2025-03-09 21:23:27 +0000"
     },
     "done": true
   },
