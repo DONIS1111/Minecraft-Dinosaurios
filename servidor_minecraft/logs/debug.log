@@ -12275,3 +12275,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Mar2025 03:08:00.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Mar2025 03:13:00.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 03:13:00.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:15:21.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[10Mar2025 03:18:00.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:18:00.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:22:26.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[10Mar2025 03:22:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[10Mar2025 03:23:00.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:23:00.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:23:22.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
