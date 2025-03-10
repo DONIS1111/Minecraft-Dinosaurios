@@ -11581,3 +11581,68 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:18:14.884] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
 [10Mar2025 01:19:55.720] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ForwardingCraftingContainer (target of net/minecraft/world/Container)
 [10Mar2025 01:19:55.721] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ModCraftingMenu$1 (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:23:00.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:23:00.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:24:24.611] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/jukebox/JukeboxUpgradeContainer$1 (target of net/minecraft/world/inventory/Slot)
+[10Mar2025 01:24:39.611] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/item/AquaFishingRodItem$FishingRodEquipmentHandler$1 (target of net/minecraftforge/items/IItemHandler)
+[10Mar2025 01:26:41.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[10Mar2025 01:26:41.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[10Mar2025 01:26:42.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[10Mar2025 01:26:44.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[10Mar2025 01:26:46.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[10Mar2025 01:26:46.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[10Mar2025 01:26:48.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[10Mar2025 01:26:59.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[10Mar2025 01:27:07.058] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.058] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.058] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.059] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.059] [Worker-Main-2/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10Mar2025 01:27:07.060] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.060] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.060] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.060] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Mar2025 01:27:07.062] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.062] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.062] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.062] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.062] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.063] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Mar2025 01:27:07.596] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Mar2025 01:27:07.597] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Mar2025 01:27:07.597] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Mar2025 01:27:07.599] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[10Mar2025 01:27:07.599] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[10Mar2025 01:27:07.676] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[10Mar2025 01:27:08.230] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_castle
+[10Mar2025 01:27:08.233] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:excalibur
+[10Mar2025 01:27:08.235] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_destroyedfortress
+[10Mar2025 01:27:08.236] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_fortress
+[10Mar2025 01:27:08.240] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_monastery
+[10Mar2025 01:27:08.241] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:patrolred
+[10Mar2025 01:27:08.242] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_romaautpost
+[10Mar2025 01:27:08.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_tower
+[10Mar2025 01:27:11.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[10Mar2025 01:27:11.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[10Mar2025 01:27:20.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[10Mar2025 01:27:33.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[10Mar2025 01:27:33.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[10Mar2025 01:27:45.514] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_casa
+[10Mar2025 01:27:45.515] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_magictower
+[10Mar2025 01:28:00.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:28:00.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:28:07.509] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[10Mar2025 01:28:07.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4547, l='ServerLevel[world]', x=179.50, y=69.00, z=-362.50]
+[10Mar2025 01:28:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[10Mar2025 01:31:08.220] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/block/blockentity/TackleBoxBlockEntity$2 (target of net/minecraftforge/items/IItemHandler)

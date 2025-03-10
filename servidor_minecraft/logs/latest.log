@@ -1077,3 +1077,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:18:14.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:56131] logged in with entity id 2274 at (-137.55273828636595, 63.0, 17.680111385082576)
 [10Mar2025 01:18:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
 [10Mar2025 01:18:14.884] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[10Mar2025 01:28:07.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4547, l='ServerLevel[world]', x=179.50, y=69.00, z=-362.50]
+[10Mar2025 01:28:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
