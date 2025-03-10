@@ -11814,3 +11814,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(3) Nodes and 5(0) Rooms
 [10Mar2025 02:21:55.420] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [10Mar2025 02:21:55.421] [Worker-Main-39/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[10Mar2025 02:23:00.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:23:00.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:23:22.439] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[10Mar2025 02:23:22.450] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[10Mar2025 02:23:22.460] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[10Mar2025 02:23:22.468] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[10Mar2025 02:23:22.475] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[10Mar2025 02:23:22.485] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[10Mar2025 02:23:23.184] [Worker-Main-39/DEBUG] [ModernFix/]: Structure kaisyn:outpost/pillagers/vindicator is being run through DFU (hash b6683329980583ebcd91c2282cf0fcde162c48bef6c1a5e678367838fb955f43), this will cause launch time delays
+[10Mar2025 02:23:23.484] [Worker-Main-39/DEBUG] [ModernFix/]: Structure kaisyn:outpost/pillagers/pillager is being run through DFU (hash 5a07518e816b0d5e08955cd74eab7c4478d5fc02270f124078200d413b36a590), this will cause launch time delays
+[10Mar2025 02:23:23.491] [Worker-Main-39/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/fields/field_1 is being run through DFU (hash 78fa17b6cfcef2bbfdc6bad5ec26a1aeb5c80e218cd7f20fa07e8aa562212642), this will cause launch time delays
+[10Mar2025 02:23:23.505] [Worker-Main-39/DEBUG] [ModernFix/]: Structure kaisyn:outpost/pillagers/outpost_captain is being run through DFU (hash 71bd1825eac8953648c57621e6b96d942b434a9e73ef167a81db541d5c98aca2), this will cause launch time delays
+[10Mar2025 02:24:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[10Mar2025 02:24:39.547] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_5 is being run through DFU (hash b7a316c6c2d948e115fcd28abe20d991a9f97cb9153390402b2d35746afbb3da), this will cause launch time delays
+[10Mar2025 02:24:40.993] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[10Mar2025 02:24:40.999] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[10Mar2025 02:24:41.008] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[10Mar2025 02:24:41.012] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[10Mar2025 02:24:41.019] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[10Mar2025 02:24:41.026] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[10Mar2025 02:24:41.031] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[10Mar2025 02:24:41.046] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[10Mar2025 02:24:41.050] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[10Mar2025 02:24:41.054] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[10Mar2025 02:24:41.057] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[10Mar2025 02:24:41.061] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[10Mar2025 02:24:41.065] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[10Mar2025 02:24:41.068] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[10Mar2025 02:24:41.071] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[10Mar2025 02:24:41.074] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[10Mar2025 02:24:41.077] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[10Mar2025 02:24:41.081] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[10Mar2025 02:24:41.085] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[10Mar2025 02:24:41.088] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[10Mar2025 02:24:41.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[10Mar2025 02:24:41.442] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[10Mar2025 02:28:00.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:28:00.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:29:35.271] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 74
+[10Mar2025 02:29:35.276] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@44103ed1, b=0, e=44}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@44103ed1, b=72, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@44103ed1, b=45, e=71}}
+[10Mar2025 02:29:35.276] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@44103ed1, b=72, e=80}
+[10Mar2025 02:29:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[10Mar2025 02:30:02.221] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 45
+[10Mar2025 02:30:02.221] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@793b522c=InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=54, e=80}}
+[10Mar2025 02:30:02.221] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}
+[10Mar2025 02:30:04.163] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 45
+[10Mar2025 02:30:04.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@793b522c=InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=54, e=80}}
+[10Mar2025 02:30:04.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}
+[10Mar2025 02:30:05.612] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 77
+[10Mar2025 02:30:05.613] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@793b522c=InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=54, e=80}}
+[10Mar2025 02:30:05.613] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=54, e=80}
+[10Mar2025 02:30:07.634] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 83
+[10Mar2025 02:30:07.634] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@793b522c=InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=54, e=80}}
+[10Mar2025 02:30:07.634] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}
+[10Mar2025 02:32:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
