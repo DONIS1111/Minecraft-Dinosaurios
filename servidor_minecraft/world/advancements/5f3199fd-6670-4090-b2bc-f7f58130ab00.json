@@ -7079,6 +7079,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-03-10 01:38:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-10 01:25:05 +0000"
@@ -7124,6 +7130,18 @@
   "oceansdelight:recipes/oceansdelight/seagrass_salad": {
     "criteria": {
       "has_seagrass": "2025-03-10 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-03-10 01:39:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-03-10 01:39:34 +0000"
     },
     "done": true
   },

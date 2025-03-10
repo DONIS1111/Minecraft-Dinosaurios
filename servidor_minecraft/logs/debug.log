@@ -11656,3 +11656,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:33:00.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Mar2025 01:38:00.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 01:38:00.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:43:00.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:43:00.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:48:00.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:48:00.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:50:50.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> 7.33
+[10Mar2025 01:51:20.673] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[10Mar2025 01:51:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 3 [Hopper] to Donita1]
+[10Mar2025 01:51:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Glowstone] to Donita1]
+[10Mar2025 01:52:04.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 8 [Lily Pad] to Donita1]

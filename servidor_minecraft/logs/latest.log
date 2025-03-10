@@ -1079,3 +1079,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 01:18:14.884] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
 [10Mar2025 01:28:07.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4547, l='ServerLevel[world]', x=179.50, y=69.00, z=-362.50]
 [10Mar2025 01:28:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[10Mar2025 01:50:50.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> 7.33
+[10Mar2025 01:51:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 3 [Hopper] to Donita1]
+[10Mar2025 01:51:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Glowstone] to Donita1]
+[10Mar2025 01:52:04.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 8 [Lily Pad] to Donita1]
