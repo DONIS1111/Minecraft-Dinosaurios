@@ -1089,3 +1089,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 02:24:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
 [10Mar2025 02:29:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [10Mar2025 02:32:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[10Mar2025 02:41:41.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[10Mar2025 02:41:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game

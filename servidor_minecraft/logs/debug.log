@@ -11869,3 +11869,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Mar2025 02:30:07.634] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@793b522c=InventoryMapping{i=net.minecraft.world.CompoundContainer@793b522c, c=net.minecraft.world.inventory.ChestMenu@3926520f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=54, e=80}}
 [10Mar2025 02:30:07.634] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3926520f, b=81, e=89}
 [10Mar2025 02:32:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[10Mar2025 02:33:00.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:33:00.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:38:00.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 02:38:00.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 02:41:41.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[10Mar2025 02:41:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
