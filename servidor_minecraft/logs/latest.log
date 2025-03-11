@@ -1081,3 +1081,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Mar2025 03:54:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
 [11Mar2025 03:55:32.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Spectator Mode]
 [11Mar2025 03:56:11.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[11Mar2025 04:02:30.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[11Mar2025 04:02:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Spectator Mode]
+[11Mar2025 04:02:34.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[11Mar2025 04:02:35.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[11Mar2025 04:05:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 04:07:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 04:08:58.862] [Server thread/WARN] [tombstone/]: The death event of the player TRY_KIMS was canceled by another mod
+[11Mar2025 04:08:58.866] [Server thread/INFO] [tombstone/]: The player TRY_KIMS has successfully been saved
