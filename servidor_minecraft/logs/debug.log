@@ -11318,3 +11318,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Mar2025 03:23:31.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [11Mar2025 03:26:36.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Mar2025 03:26:36.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:31:36.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:31:36.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:36:36.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:36:36.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:39:34.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Donita1> chi
+[11Mar2025 03:39:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Donita1> y no va lag
+[11Mar2025 03:39:38.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Donita1> chi

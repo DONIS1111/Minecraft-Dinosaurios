@@ -7138,6 +7138,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "kelp": "2025-03-10 01:38:55 +0000",
+      "sugar_cane": "2025-03-11 03:30:20 +0000",
       "carrot": "2025-03-11 03:12:43 +0000"
     },
     "done": false
