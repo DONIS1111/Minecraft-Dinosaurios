@@ -4918,5 +4918,47 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-03-11 03:02:36 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

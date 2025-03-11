@@ -3221,6 +3221,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-09 04:09:53 +0000",
+      "minecraft:spider": "2025-03-11 02:57:09 +0000",
       "minecraft:creeper": "2025-03-09 04:12:05 +0000",
       "minecraft:enderman": "2025-03-09 17:07:50 +0000",
       "minecraft:zombie": "2025-03-09 04:08:33 +0000",
@@ -7515,6 +7516,54 @@
   "minecraft:recipes/decorations/grass_washed_magenta.json": {
     "criteria": {
       "has_grass_block": "2025-03-10 02:27:01 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-11 03:01:13 +0000"
     },
     "done": true
   },
