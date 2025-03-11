@@ -4738,33 +4738,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/deepslate_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-03-10 03:09:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-03-10 03:09:29 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-03-10 02:48:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
+      "has_obsidian": "2025-03-10 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-10 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-10 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-10 03:09:29 +0000"
     },
     "done": true
   },
@@ -4780,21 +4780,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/deepslate_tile_bridge": {
     "criteria": {
       "has_planks": "2025-03-10 03:09:29 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
-    "criteria": {
-      "has_obsidian": "2025-03-10 02:48:23 +0000"
     },
     "done": true
   },
@@ -4822,6 +4810,48 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2025-03-10 03:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-10 03:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-10 03:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-10 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
@@ -4846,21 +4876,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-10 02:48:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/deepslate": {
-    "criteria": {
-      "has_wood": "2025-03-10 03:09:29 +0000"
     },
     "done": true
   },
@@ -4873,18 +4891,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-03-10 03:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-03-10 03:09:29 +0000"
     },
     "done": true
   },
@@ -4909,12 +4915,6 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-10 03:09:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-03-10 02:48:23 +0000"
     },
     "done": true
   },
