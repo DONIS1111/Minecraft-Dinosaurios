@@ -1070,3 +1070,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Mar2025 02:52:33.804] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
 [11Mar2025 02:52:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported Donita1 to TRY_KIMS]
 [11Mar2025 03:02:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 03:13:46.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [What a Deal!]
