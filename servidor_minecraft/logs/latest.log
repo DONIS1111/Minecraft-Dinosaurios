@@ -1097,3 +1097,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Mar2025 04:12:13.522] [Server thread/INFO] [Jade/]: Syncing config to TRY_KIMS (5f3199fd-6670-4090-b2bc-f7f58130ab00)
 [11Mar2025 04:15:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [11Mar2025 04:20:34.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Cover Me with Diamonds]
+[11Mar2025 04:23:57.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 04:24:21.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Cover Me with Diamonds]
+[11Mar2025 04:25:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[11Mar2025 04:26:38.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[11Mar2025 04:27:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 04:28:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[11Mar2025 04:29:48.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[11Mar2025 04:29:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[11Mar2025 04:30:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[11Mar2025 04:32:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> me esta hablando mi ama :P
+[11Mar2025 04:34:08.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[11Mar2025 04:34:13.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[11Mar2025 04:34:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Spectator Mode]
+[11Mar2025 04:35:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[11Mar2025 04:36:04.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[11Mar2025 04:36:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[11Mar2025 04:38:00.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[11Mar2025 04:38:02.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[11Mar2025 04:38:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[11Mar2025 04:38:06.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[11Mar2025 04:38:08.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[11Mar2025 04:38:08.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[11Mar2025 04:38:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Mar2025 04:38:15.743] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[11Mar2025 04:38:15.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Mar2025 04:38:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Mar2025 04:38:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Mar2025 04:38:15.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Mar2025 04:38:16.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[11Mar2025 04:38:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11Mar2025 04:38:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Mar2025 04:38:16.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Mar2025 04:38:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Mar2025 04:38:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[11Mar2025 04:38:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11Mar2025 04:38:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Mar2025 04:38:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Mar2025 04:38:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Mar2025 04:38:16.151] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Mar2025 04:38:16.165] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[11Mar2025 04:38:16.170] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[11Mar2025 04:38:16.248] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
