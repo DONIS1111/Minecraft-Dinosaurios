@@ -11313,3 +11313,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Mar2025 03:16:36.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Mar2025 03:18:38.550] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
 [11Mar2025 03:18:38.550] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[11Mar2025 03:21:36.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:21:36.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:23:31.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 03:26:36.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:26:36.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
