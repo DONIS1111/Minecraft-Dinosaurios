@@ -1089,3 +1089,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Mar2025 04:07:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [11Mar2025 04:08:58.862] [Server thread/WARN] [tombstone/]: The death event of the player TRY_KIMS was canceled by another mod
 [11Mar2025 04:08:58.866] [Server thread/INFO] [tombstone/]: The player TRY_KIMS has successfully been saved
+[11Mar2025 04:12:08.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[11Mar2025 04:12:08.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[11Mar2025 04:12:10.983] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TRY_KIMS is 5f3199fd-6670-4090-b2bc-f7f58130ab00
+[11Mar2025 04:12:13.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRY_KIMS[/127.115.201.221:60219] logged in with entity id 16728 at (-111.52207719687095, 68.0, -43.61468048151135)
+[11Mar2025 04:12:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS joined the game
+[11Mar2025 04:12:13.522] [Server thread/INFO] [Jade/]: Syncing config to TRY_KIMS (5f3199fd-6670-4090-b2bc-f7f58130ab00)
+[11Mar2025 04:15:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[11Mar2025 04:20:34.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Cover Me with Diamonds]
