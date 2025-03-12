@@ -10994,3 +10994,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Mar2025 00:38:10.799] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
 [12Mar2025 00:38:10.799] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
 [12Mar2025 00:38:10.799] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Mar2025 00:39:05.373] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[12Mar2025 00:39:05.373] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[12Mar2025 00:39:46.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 00:39:46.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 00:44:46.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 00:44:46.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 00:47:42.431] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@437abb6e for service interface com.blamejared.clumps.platform.IEventHelper
+[12Mar2025 00:47:42.431] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@77739564 for service interface com.blamejared.clumps.platform.IPlatformHelper

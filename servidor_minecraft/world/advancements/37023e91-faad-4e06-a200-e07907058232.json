@@ -4925,18 +4925,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-03-11 04:24:21 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_black_pane1": {
-    "criteria": {
-      "recipe_condition": "2025-03-11 03:02:36 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-03-11 03:02:29 +0000"
@@ -4955,6 +4943,30 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-03-11 03:02:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-11 04:09:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-03-11 04:10:29 +0000"
@@ -4967,21 +4979,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2025-03-11 03:02:29 +0000"
-    },
-    "done": true
-  },
   "netherdepthsupgrade:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-11 04:10:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-03-11 04:09:39 +0000"
     },
     "done": true
   },
@@ -4991,9 +4991,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "recipe_condition": "2025-03-11 03:02:29 +0000"
+      "diamond_helmet": "2025-03-11 04:24:21 +0000"
     },
     "done": true
   },
