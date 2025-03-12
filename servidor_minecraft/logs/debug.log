@@ -11338,3 +11338,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Mar2025 01:27:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> pero provecho :p
 [12Mar2025 01:28:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Donita1> gachas
 [12Mar2025 01:28:24.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> que % llevas?
+[12Mar2025 01:29:46.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 01:29:46.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 01:30:05.084] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[12Mar2025 01:30:05.084] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[12Mar2025 01:30:16.183] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[12Mar2025 01:33:50.159] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ForwardingCraftingContainer (target of net/minecraft/world/Container)
+[12Mar2025 01:33:50.159] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ModCraftingMenu$1 (target of net/minecraft/world/inventory/Slot)
+[12Mar2025 01:34:46.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 01:34:46.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 01:38:16.483] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/jukebox/JukeboxUpgradeContainer$1 (target of net/minecraft/world/inventory/Slot)
