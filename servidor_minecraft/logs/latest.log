@@ -42,3 +42,6 @@
 [12Mar2025 02:08:20.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:38193] logged in with entity id 20745 at (-138.8735198113315, 63.0, 9.11956186089763)
 [12Mar2025 02:08:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
 [12Mar2025 02:08:20.450] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[12Mar2025 02:23:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[12Mar2025 02:23:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[12Mar2025 02:29:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Tactical Fishing]

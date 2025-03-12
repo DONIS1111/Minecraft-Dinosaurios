@@ -11668,3 +11668,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Mar2025 02:09:46.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Mar2025 02:14:46.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Mar2025 02:14:46.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 02:19:46.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:19:46.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 02:23:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[12Mar2025 02:23:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[12Mar2025 02:24:46.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:24:46.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 02:27:55.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[12Mar2025 02:28:03.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[12Mar2025 02:28:19.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[12Mar2025 02:29:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Tactical Fishing]
+[12Mar2025 02:29:46.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:29:46.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 02:34:46.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:34:46.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 02:39:46.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:39:46.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

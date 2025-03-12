@@ -7618,5 +7618,29 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "2025-03-12 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2025-03-12 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2025-03-12 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2025-03-12 02:28:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
