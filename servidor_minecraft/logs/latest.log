@@ -34,3 +34,4 @@
 [12Mar2025 01:28:24.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> que % llevas?
 [12Mar2025 01:41:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
 [12Mar2025 01:41:26.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[12Mar2025 01:51:22.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=60, z=-52} BlockPos{x=-99, y=61, z=-52}
