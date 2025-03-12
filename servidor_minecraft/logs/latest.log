@@ -3,3 +3,5 @@
 [12Mar2025 00:36:29.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:52673] logged in with entity id 1548 at (-131.12896843019865, 63.0, 12.169024332402)
 [12Mar2025 00:36:29.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
 [12Mar2025 00:36:29.717] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[12Mar2025 00:55:19.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[12Mar2025 00:55:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
