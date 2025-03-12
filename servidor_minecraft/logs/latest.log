@@ -35,3 +35,10 @@
 [12Mar2025 01:41:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
 [12Mar2025 01:41:26.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
 [12Mar2025 01:51:22.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=60, z=-52} BlockPos{x=-99, y=61, z=-52}
+[12Mar2025 02:02:07.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[12Mar2025 02:06:24.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[12Mar2025 02:06:24.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[12Mar2025 02:08:17.882] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[12Mar2025 02:08:20.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:38193] logged in with entity id 20745 at (-138.8735198113315, 63.0, 9.11956186089763)
+[12Mar2025 02:08:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[12Mar2025 02:08:20.450] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
