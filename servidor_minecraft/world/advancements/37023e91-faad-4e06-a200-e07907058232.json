@@ -4997,15 +4997,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-03-12 01:01:53 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-03-12 00:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-03-12 01:01:53 +0000"
     },
     "done": true
   },
@@ -5033,15 +5033,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-12 01:01:53 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/spruce_leaves_slab": {
     "criteria": {
       "has_spruce_leaves": "2025-03-12 01:39:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_chestplate": {
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
     "criteria": {
-      "has_item": "2025-03-12 01:01:53 +0000"
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-03-12 02:10:02 +0000"
     },
     "done": true
   },

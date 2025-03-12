@@ -11664,3 +11664,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Mar2025 02:08:20.445] [Server thread/DEBUG] [FTB Quests/]: Wrote 50083 bytes, 492 objects
 [12Mar2025 02:08:20.448] [Server thread/DEBUG] [FTB Teams/]: team login event for 37023e91-faad-4e06-a200-e07907058232 sent
 [12Mar2025 02:08:20.450] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[12Mar2025 02:09:46.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:09:46.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 02:14:46.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 02:14:46.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
