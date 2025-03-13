@@ -7732,27 +7732,9 @@
     },
     "done": true
   },
-  "seafarer:recipes/misc/blue_dye_from_sea_holly": {
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
     "criteria": {
-      "has_flower": "2025-03-13 03:34:50 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/black_concrete_slab": {
-    "criteria": {
-      "has_black_concrete": "2025-03-13 04:03:45 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-13 03:41:37 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-13 03:41:37 +0000"
+      "recipe_condition": "2025-03-13 03:32:18 +0000"
     },
     "done": true
   },
@@ -7768,15 +7750,9 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/decorations/driftwood_sign": {
+  "seafarer:recipes/misc/blue_dye_from_sea_holly": {
     "criteria": {
-      "has_planks": "2025-03-13 03:41:37 +0000"
-    },
-    "done": true
-  },
-  "chunkloaders:recipes/misc/basic_chunk_loader": {
-    "criteria": {
-      "recipe_condition": "2025-03-13 03:32:18 +0000"
+      "has_flower": "2025-03-13 03:34:50 +0000"
     },
     "done": true
   },
@@ -7786,9 +7762,63 @@
     },
     "done": true
   },
+  "seafarer:recipes/food/starfish_pink_from_campfire_cooking": {
+    "criteria": {
+      "starfish_pink": "2025-03-13 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "seafarer:recipes/food/starfish_pink": {
+    "criteria": {
+      "starfish_pink": "2025-03-13 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "seafarer:recipes/building_blocks/swirl_shell_bricks": {
+    "criteria": {
+      "has_swirl_shell": "2025-03-13 03:35:28 +0000"
+    },
+    "done": true
+  },
+  "seafarer:recipes/tools/swirl_axe": {
+    "criteria": {
+      "has_swirl_shell": "2025-03-13 03:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-13 03:37:10 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/driftwood": {
     "criteria": {
       "has_log": "2025-03-13 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
+    "criteria": {
+      "has_logs": "2025-03-13 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-13 03:41:37 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-13 03:41:37 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_sign": {
+    "criteria": {
+      "has_planks": "2025-03-13 03:41:37 +0000"
     },
     "done": true
   },
@@ -7810,69 +7840,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-03-13 04:34:00 +0000"
-    },
-    "done": true
-  },
-  "seafarer:recipes/food/starfish_pink_from_campfire_cooking": {
-    "criteria": {
-      "starfish_pink": "2025-03-13 03:35:05 +0000"
-    },
-    "done": true
-  },
-  "seafarer:recipes/food/starfish_pink": {
-    "criteria": {
-      "starfish_pink": "2025-03-13 03:35:05 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-03-13 03:55:54 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/redstone/driftwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-13 03:41:37 +0000"
     },
     "done": true
   },
-  "seafarer:recipes/building_blocks/swirl_shell_bricks": {
-    "criteria": {
-      "has_swirl_shell": "2025-03-13 03:35:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-03-13 03:37:10 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
-    "criteria": {
-      "has_logs": "2025-03-13 03:41:19 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/redstone/driftwood_door": {
     "criteria": {
       "has_planks": "2025-03-13 03:41:37 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/sea_lantern_slab": {
-    "criteria": {
-      "has_sea_lantern": "2025-03-13 04:31:29 +0000"
-    },
-    "done": true
-  },
-  "seafarer:recipes/tools/swirl_axe": {
-    "criteria": {
-      "has_swirl_shell": "2025-03-13 03:35:28 +0000"
     },
     "done": true
   },
@@ -7885,6 +7861,30 @@
   "minecraft:main/fossil": {
     "criteria": {
       "mezo_fossil": "2025-03-13 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-13 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_concrete_slab": {
+    "criteria": {
+      "has_black_concrete": "2025-03-13 04:03:45 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/sea_lantern_slab": {
+    "criteria": {
+      "has_sea_lantern": "2025-03-13 04:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-13 04:34:00 +0000"
     },
     "done": true
   },
