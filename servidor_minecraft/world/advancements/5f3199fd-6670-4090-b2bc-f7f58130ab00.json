@@ -7858,6 +7858,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/sea_lantern_slab": {
+    "criteria": {
+      "has_sea_lantern": "2025-03-13 04:31:29 +0000"
+    },
+    "done": true
+  },
   "seafarer:recipes/tools/swirl_axe": {
     "criteria": {
       "has_swirl_shell": "2025-03-13 03:35:28 +0000"
