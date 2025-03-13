@@ -7816,6 +7816,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-13 03:55:54 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/redstone/driftwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-13 03:41:37 +0000"

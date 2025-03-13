@@ -11391,3 +11391,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 03:55:36.503] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
 [13Mar2025 03:55:36.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
 [13Mar2025 03:55:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [A Strange Grave Dust]
+[13Mar2025 03:56:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[13Mar2025 03:56:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[13Mar2025 03:57:08.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Odd Looking Rocks]
+[13Mar2025 03:57:10.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 03:57:10.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 03:57:31.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[13Mar2025 03:57:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[13Mar2025 03:57:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[13Mar2025 03:59:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 195 [Black Dye] to TRY_KIMS]
+[13Mar2025 04:02:10.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 04:02:10.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 04:02:30.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[13Mar2025 04:03:41.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[13Mar2025 04:03:52.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[13Mar2025 04:04:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[13Mar2025 04:04:17.662] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[13Mar2025 04:04:17.663] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
