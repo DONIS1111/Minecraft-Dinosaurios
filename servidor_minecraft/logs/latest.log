@@ -1115,3 +1115,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 05:34:38.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:51409] logged in with entity id 37111 at (-123.25259134048063, 65.0031999805212, -9.705213042370932)
 [13Mar2025 05:34:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
 [13Mar2025 05:34:38.720] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[13Mar2025 05:44:13.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[13Mar2025 05:44:13.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[13Mar2025 05:44:16.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[13Mar2025 05:44:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[13Mar2025 05:44:26.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Mar2025 05:44:26.303] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[13Mar2025 05:44:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Mar2025 05:44:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Mar2025 05:44:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Mar2025 05:44:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Mar2025 05:44:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Mar2025 05:44:27.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Mar2025 05:44:27.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Mar2025 05:44:27.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Mar2025 05:44:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Mar2025 05:44:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Mar2025 05:44:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Mar2025 05:44:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Mar2025 05:44:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Mar2025 05:44:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Mar2025 05:44:27.212] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Mar2025 05:44:27.218] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Mar2025 05:44:27.221] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Mar2025 05:44:27.310] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
