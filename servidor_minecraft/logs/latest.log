@@ -1099,3 +1099,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 04:55:38.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
 [13Mar2025 04:56:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
 [13Mar2025 04:56:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
+[13Mar2025 05:11:13.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[13Mar2025 05:11:13.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[13Mar2025 05:11:17.587] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[13Mar2025 05:11:19.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:59857] logged in with entity id 31270 at (-151.17021121070374, 62.0, 35.391567536065764)
+[13Mar2025 05:11:20.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[13Mar2025 05:11:20.059] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[13Mar2025 05:12:48.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Creative Mode]
+[13Mar2025 05:16:20.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
