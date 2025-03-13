@@ -5057,18 +5057,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-03-12 02:16:23 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-03-12 02:29:13 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_red2": {
     "criteria": {
       "recipe_condition1": "2025-03-12 02:10:02 +0000"
@@ -5156,6 +5144,18 @@
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2025-03-12 02:10:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-03-12 02:16:23 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-03-12 02:29:13 +0000"
     },
     "done": true
   },
