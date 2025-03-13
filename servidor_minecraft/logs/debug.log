@@ -11340,3 +11340,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 03:34:25.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
 [13Mar2025 03:34:34.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
 [13Mar2025 03:34:43.053] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[13Mar2025 03:36:58.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[13Mar2025 03:37:10.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 03:37:10.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 03:40:38.558] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$511bf85375b048a19364007ee4538bd5 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[13Mar2025 03:42:10.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 03:42:10.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 03:42:49.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[13Mar2025 03:42:49.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_giant_cross_1
+[13Mar2025 03:42:49.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_main_house_1
+[13Mar2025 03:42:49.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[13Mar2025 03:42:49.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1
