@@ -7858,5 +7858,11 @@
     },
     "done": true
   },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "mezo_fossil": "2025-03-13 03:49:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

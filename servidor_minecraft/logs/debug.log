@@ -11351,3 +11351,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 03:42:49.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_main_house_1
 [13Mar2025 03:42:49.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
 [13Mar2025 03:42:49.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1
+[13Mar2025 03:47:10.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 03:47:10.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 03:47:33.071] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
+[13Mar2025 03:49:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Odd Looking Rocks]
+[13Mar2025 03:49:53.719] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@29b87a66 for service interface com.blamejared.clumps.platform.IEventHelper
+[13Mar2025 03:49:53.719] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@242dec05 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[13Mar2025 03:50:20.621] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
+[13Mar2025 03:51:52.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[13Mar2025 03:51:52.822] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[13Mar2025 03:51:52.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[13Mar2025 03:51:52.858] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[13Mar2025 03:51:52.870] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[13Mar2025 03:51:52.892] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[13Mar2025 03:51:52.903] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[13Mar2025 03:51:53.913] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_casa
+[13Mar2025 03:51:53.914] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of medieval_craft_structures:sbs_magictower
+[13Mar2025 03:52:10.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 03:52:10.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 03:54:46.406] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11843, l='ServerLevel[world]', x=280.50, y=22.00, z=150.50] as it would cause deadlock
+[13Mar2025 03:54:46.440] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[13Mar2025 03:54:46.456] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[13Mar2025 03:55:02.933] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[13Mar2025 03:55:02.938] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[13Mar2025 03:55:02.941] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[13Mar2025 03:55:02.944] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[13Mar2025 03:55:02.948] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[13Mar2025 03:55:06.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[13Mar2025 03:55:06.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[13Mar2025 03:55:06.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[13Mar2025 03:55:06.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[13Mar2025 03:55:06.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[13Mar2025 03:55:06.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[13Mar2025 03:55:16.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[13Mar2025 03:55:21.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[13Mar2025 03:55:21.838] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[13Mar2025 03:55:21.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[13Mar2025 03:55:36.495] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[13Mar2025 03:55:36.503] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[13Mar2025 03:55:36.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[13Mar2025 03:55:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [A Strange Grave Dust]

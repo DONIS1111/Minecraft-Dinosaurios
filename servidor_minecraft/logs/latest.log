@@ -1070,3 +1070,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 03:29:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS joined the game
 [13Mar2025 03:29:01.988] [Server thread/INFO] [Jade/]: Syncing config to TRY_KIMS (5f3199fd-6670-4090-b2bc-f7f58130ab00)
 [13Mar2025 03:31:51.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Obsidian] to TRY_KIMS]
+[13Mar2025 03:49:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Odd Looking Rocks]
+[13Mar2025 03:54:46.406] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11843, l='ServerLevel[world]', x=280.50, y=22.00, z=150.50] as it would cause deadlock
+[13Mar2025 03:55:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [A Strange Grave Dust]
