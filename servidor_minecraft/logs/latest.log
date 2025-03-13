@@ -1109,3 +1109,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 05:16:20.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Set own game mode to Survival Mode]
 [13Mar2025 05:20:14.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
 [13Mar2025 05:26:30.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[13Mar2025 05:31:59.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[13Mar2025 05:31:59.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[13Mar2025 05:34:36.168] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[13Mar2025 05:34:38.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:51409] logged in with entity id 37111 at (-123.25259134048063, 65.0031999805212, -9.705213042370932)
+[13Mar2025 05:34:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[13Mar2025 05:34:38.720] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
