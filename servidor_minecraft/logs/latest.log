@@ -1087,3 +1087,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Mar2025 04:06:31.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [13Mar2025 04:09:54.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [13Mar2025 04:31:29.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 128 [Sea Lantern] to TRY_KIMS]
+[13Mar2025 04:42:48.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[13Mar2025 04:42:48.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[13Mar2025 04:45:07.992] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[13Mar2025 04:45:10.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:37973] logged in with entity id 23855 at (-137.7988444126569, 69.5, 34.979030486607506)
+[13Mar2025 04:45:10.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[13Mar2025 04:45:10.529] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)

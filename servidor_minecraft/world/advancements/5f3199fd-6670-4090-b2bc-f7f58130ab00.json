@@ -7810,6 +7810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-13 04:34:00 +0000"
+    },
+    "done": true
+  },
   "seafarer:recipes/food/starfish_pink_from_campfire_cooking": {
     "criteria": {
       "starfish_pink": "2025-03-13 03:35:05 +0000"
