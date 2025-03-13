@@ -7738,6 +7738,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/black_concrete_slab": {
+    "criteria": {
+      "has_black_concrete": "2025-03-13 04:03:45 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-13 03:41:37 +0000"
