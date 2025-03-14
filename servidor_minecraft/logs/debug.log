@@ -11022,3 +11022,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 01:10:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
 [14Mar2025 01:14:37.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Mar2025 01:14:37.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:19:37.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 01:19:37.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:24:37.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 01:24:37.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:29:04.450] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:29:04.450] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[14Mar2025 01:29:09.504] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[14Mar2025 01:29:09.505] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[14Mar2025 01:29:09.505] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
