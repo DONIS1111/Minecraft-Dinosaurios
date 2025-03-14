@@ -7888,5 +7888,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/sponge_slab": {
+    "criteria": {
+      "has_sponge": "2025-03-14 00:04:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
