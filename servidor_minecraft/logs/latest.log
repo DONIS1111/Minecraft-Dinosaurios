@@ -4,3 +4,25 @@
 [14Mar2025 01:08:02.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
 [14Mar2025 01:10:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
 [14Mar2025 01:33:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Neighborhood Brawl]
+[14Mar2025 02:05:53.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[14Mar2025 02:05:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[14Mar2025 02:06:00.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Mar2025 02:06:00.696] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[14Mar2025 02:06:00.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Mar2025 02:06:00.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Mar2025 02:06:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Mar2025 02:06:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Mar2025 02:06:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[14Mar2025 02:06:00.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[14Mar2025 02:06:00.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Mar2025 02:06:00.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Mar2025 02:06:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Mar2025 02:06:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[14Mar2025 02:06:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Mar2025 02:06:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Mar2025 02:06:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Mar2025 02:06:00.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Mar2025 02:06:01.018] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Mar2025 02:06:01.020] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[14Mar2025 02:06:01.022] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Mar2025 02:06:01.149] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
