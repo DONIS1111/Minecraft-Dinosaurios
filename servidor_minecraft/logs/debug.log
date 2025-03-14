@@ -11031,3 +11031,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 01:29:09.504] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
 [14Mar2025 01:29:09.505] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
 [14Mar2025 01:29:09.505] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[14Mar2025 01:29:37.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 01:29:37.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:31:46.400] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/slot/SlotFishingRod (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:31:46.401] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/slot/SlotHidable (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:31:46.401] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$2 (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:31:46.402] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$3 (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:31:46.402] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$4 (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:31:46.402] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/teammetallurgy/aquaculture/inventory/container/TackleBoxContainer$5 (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:32:53.289] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[14Mar2025 01:33:09.401] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[14Mar2025 01:33:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Neighborhood Brawl]
+[14Mar2025 01:34:37.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 01:34:37.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:39:37.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 01:39:37.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:44:37.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 01:44:37.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 01:46:44.749] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ForwardingCraftingContainer (target of net/minecraft/world/Container)
+[14Mar2025 01:46:44.750] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ModCraftingMenu$1 (target of net/minecraft/world/inventory/Slot)
+[14Mar2025 01:48:05.826] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[14Mar2025 01:48:05.830] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=30, e=38}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}}
+[14Mar2025 01:48:05.830] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}
+[14Mar2025 01:48:05.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[14Mar2025 01:48:05.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=30, e=38}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}}
+[14Mar2025 01:48:05.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}
+[14Mar2025 01:48:05.901] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=30, e=38}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}}
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=30, e=38}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}}
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=30, e=38}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}}
+[14Mar2025 01:48:05.902] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}
+[14Mar2025 01:48:05.910] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 4
+[14Mar2025 01:48:05.910] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=30, e=38}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}}
+[14Mar2025 01:48:05.910] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.MerchantMenu@6436b8b2, b=3, e=29}
