@@ -1072,3 +1072,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Mar2025 05:08:54.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRY_KIMS[/127.89.170.19:44593] logged in with entity id 2100 at (-122.47069734681004, 69.0, -44.24394629464881)
 [14Mar2025 05:08:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS joined the game
 [14Mar2025 05:08:54.496] [Server thread/INFO] [Jade/]: Syncing config to TRY_KIMS (5f3199fd-6670-4090-b2bc-f7f58130ab00)
+[14Mar2025 05:09:46.394] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[14Mar2025 05:09:49.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:58953] logged in with entity id 2279 at (-96.30000001192093, 60.0, -74.50941473006984)
+[14Mar2025 05:09:49.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[14Mar2025 05:09:49.794] [Server thread/INFO] [Jade/]: Syncing config to Donita1 (37023e91-faad-4e06-a200-e07907058232)
+[14Mar2025 05:10:00.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported Donita1 to TRY_KIMS]
